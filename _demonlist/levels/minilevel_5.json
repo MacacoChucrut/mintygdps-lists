@@ -1,0 +1,33 @@
+{
+  "id": 4323,
+  "name": "Minilevel 5",
+  "creators": [
+      "windowclose"
+  ],
+  "verifier": "windowclose",
+  "verification": "",
+  "showcase": "",
+  "records": [
+    {
+      "user": "Herobrain",
+      "link": "",
+      "percent": 100,
+      "mobile": false
+    },
+    {
+      "user": "MacacoChucrut",
+      "link": "",
+      "percent": 100
+    },
+    {
+      "user": "KindaExpert",
+      "link": "",
+      "percent": 100
+    }
+  ],
+  "tags": [
+    "Learny",
+    "Slow-Paced",
+    "Medium"
+    ]
+}
