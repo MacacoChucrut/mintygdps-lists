@@ -1,0 +1,35 @@
+{
+    "id": 3105,
+    "name": "snow cube",
+    "author": "ImNotPkpi",
+    "creators": ["ImNotPkpi"],
+    "verifier": "ImNotPkpi",
+    "verification": "https://youtu.be/UPB4uBMX3iI?si=XdK9CRA0gVTU23GV",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Dino",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Virek",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+      "user": "KindaExpert",
+      "link": "",
+      "percent": 100
+    }
+    ],
+    "tags": ["Timings", "Cube", "Gimmicky"]
+} 

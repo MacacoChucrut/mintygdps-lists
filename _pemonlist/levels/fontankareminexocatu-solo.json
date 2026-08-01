@@ -1,0 +1,76 @@
+{
+    "id": 3283,
+    "name": "fontankareminexocatu (Solo)",
+    "author": "Dino",
+    "creators": ["Dino"],
+    "verifier": "Dino",
+    "verification": "https://www.youtube.com/watch?v=3S5Rmxc61rU",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Gonci",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Virek",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Quantium9",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "ImNotPkpi",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "pancakepuzzle",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Mop",
+            "link": "https://youtu.be/au-DIe24vxk?si=pyEbA4cHdsZ9nwyd",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "goofyman",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "yeeee",
+            "link": "",
+            "percent": 100
+        },
+        {
+      "user": "KindaExpert",
+      "link": "",
+      "percent": 100
+    }
+    ],
+    "tags": ["2P", "Robot", "Ship", "Timings"]
+}

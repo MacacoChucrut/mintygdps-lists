@@ -1,0 +1,71 @@
+.page-home {
+    grid-template-columns: minmax(auto, 1fr) 2fr;
+}
+
+.page-home h2 {
+    font-size: 2.5rem;
+}
+
+.home-main {
+    padding: 3rem 0 3rem 4rem;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.home-main h1 {
+    margin-bottom: 4rem;
+}
+
+.home-main h2 {
+    margin: 3rem 0;
+}
+
+.credits {
+    opacity: .5;
+}
+
+.credits a:hover {
+    text-decoration: underline;
+}
+
+.page-home hr {
+    margin: 2rem auto;
+    width: 90%;
+}
+
+.requirements {
+    padding-bottom: 4rem;
+    overflow-y: auto;
+}
+
+.requirements h2 {
+    text-align: center;
+    margin: 4rem 0;
+}
+
+.requirements li {
+    margin: 24px auto;
+    font-size: 1rem;
+    padding-left: 1rem;
+    width: 90%;
+}
+
+.requirements a {
+    text-decoration: underline;
+}
+
+.editors {
+    margin: 0 auto;
+    width: 70%;
+}
+
+.editor-card {
+    font-size: 1.1rem;
+    margin: 1rem 0;
+    display: flex;
+}
+
+.editor-card:hover {
+    transition: .1s;
+    text-decoration: underline;
+}

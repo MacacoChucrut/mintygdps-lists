@@ -1,0 +1,40 @@
+{
+    "id": 3685,
+    "name": "Dignity",
+    "creators": ["A01"],
+    "verifier": "A01",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "ImNotPkpi",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Mop",
+            "link": "https://youtu.be/pldLI0rN1Js?si=UGfUKIUDOOZSwJxA",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+      "user": "KindaExpert",
+      "link": "",
+      "percent": 100
+    }
+    ],
+    "tags": ["Ship", "Minigame"]
+}

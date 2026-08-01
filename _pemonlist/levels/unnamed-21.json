@@ -1,0 +1,59 @@
+{
+    "id": 3242,
+    "name": "Unnamed 21",
+    "author": "A01",
+    "creators": ["A01"],
+    "verifier": "A01",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "ImNotPkpi",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Virek",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "goofyman",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Mop",
+            "link": "https://youtu.be/8gz4C0HvR4g?si=60nF5-PpKA7TNYA5",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Hcmaxi",
+            "link": "",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+      "user": "KindaExpert",
+      "link": "",
+      "percent": 100
+    }
+    ],
+    "tags": ["Robot", "Cube", "Timings"]
+}
