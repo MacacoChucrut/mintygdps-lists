@@ -1,0 +1,8 @@
+{
+    "name": "Trial Pack I",
+    "levels": [
+        "robot_trial",
+        "ball_trial",
+        "ship_trial"
+    ]
+}
