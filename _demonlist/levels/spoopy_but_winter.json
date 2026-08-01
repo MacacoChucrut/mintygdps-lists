@@ -1,0 +1,35 @@
+{
+    "id": 4256,
+    "name": "spoopy but winter",
+    "creators": [
+        "A01"
+    ],
+    "verifier": "A01",
+    "verification": "",
+    "showcase": "",
+    "records": [
+        {
+            "user": "goofyman",
+            "link": "",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+          "user": "Herobrain",
+          "link": "",
+          "percent": 100,
+          "mobile": false
+        },
+        {
+          "user": "MacacoChucrut",
+          "link": "",
+          "percent": 100,
+          "mobile": false
+        }
+    ],
+    "tags": [
+        "Overall",
+        "Fast-Paced",
+        "Medium"
+    ]
+}

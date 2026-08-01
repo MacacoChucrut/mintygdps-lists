@@ -1,0 +1,39 @@
+{
+    "id": 3130,
+    "name": "Quack Overdrive",
+    "creators": [
+        "Herobrain"
+    ],
+    "verifier": "Herobrain",
+    "verification": "https://youtu.be/3jC_PxqTexk",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "https://youtu.be/e_hRDNw4Adg",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Hcmaxi",
+            "link": "https://youtu.be/Ufl-gMY291I",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "goofyman",
+            "link": "https://youtu.be/iulvKtquF8g",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+  "user": "Azreal",
+  "link": "https://www.youtube.com/watch?v=RwCjL7HKnf0",
+  "percent": 100
+        }
+    ],
+    "tags": [
+        "Overall",
+        "Learny",
+        "Long"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4231,
+  "name": "VelocityChristmas",
+  "creators": [
+      "velocity"
+  ],
+  "verifier": "velocity",
+  "verification": "",
+  "showcase": "",
+  "records": [
+    {
+      "user": "Herobrain",
+      "link": "",
+      "percent": 100
+    },
+    {
+          "user": "MacacoChucrut",
+          "link": "",
+          "percent": 100,
+          "mobile": false
+    },
+    {
+  "user": "hcmaxi",
+  "link": "",
+  "percent": 100
+}
+  ],
+  "tags": [
+    "Overall",
+    "Fast-Paced",
+    "High CPS",
+    "Long"
+    ]
+}
