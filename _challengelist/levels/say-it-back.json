@@ -1,0 +1,18 @@
+{
+    "id": 3363,
+    "name": "Say it Back",
+    "author": "atals omg",
+    "creators": ["atals omg"],
+    "verifier": "AbrahamGame10",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Cube", "Timings", "Learny"]
+}

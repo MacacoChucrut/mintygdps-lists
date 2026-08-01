@@ -1,0 +1,28 @@
+{
+    "id": 4066,
+    "name": "star7uifg",
+    "creators": ["Z3pH4x"],
+    "verifier": "Z3pH4x",
+    "verification": "https://youtu.be/KVHK4trJHxc?si=6asp4_Ip2tK2saGW",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "https://youtu.be/nbyuok-PnQc",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+  "user": "ForbidBasket",
+  "link": "",
+  "percent": 100,
+  "mobile": false
+},
+        {
+  "user": "lolpanda",
+  "link": "",
+  "percent": 100
+}
+    ],
+    "tags": ["Ship", "Wave"]
+}

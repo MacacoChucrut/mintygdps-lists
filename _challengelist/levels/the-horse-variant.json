@@ -1,0 +1,24 @@
+{
+    "id": 962,
+    "name": "The Horse Variant",
+    "author": "MacacoChucrut",
+    "creators": ["MacacoChucrut"],
+    "verifier": "MacacoChucrut",
+    "verification": "https://youtu.be/qIgN59B_Hx4?feature=shared",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/pQKwwgPY69I",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+  "user": "ForbidBasket",
+  "link": "",
+  "percent": 100,
+  "mobile": false
+}
+    ],
+    "tags": ["Cube", "Timings"]
+}

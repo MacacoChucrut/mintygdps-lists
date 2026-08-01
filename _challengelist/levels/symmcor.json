@@ -1,0 +1,41 @@
+{
+    "id": 2285,
+    "name": "symmcor",
+    "creators": ["Dracorex"],
+    "verifier": "Dracorex",
+    "verification": "https://youtu.be/s656tZfKex0?feature=shared",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "nightsIris",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Mop",
+            "link": "https://youtu.be/Zl19GAssI9E?si=W3cezlDfZTelCI6o",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/Kvm35Zc5pVw",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Wave"]
+}

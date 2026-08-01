@@ -1,0 +1,29 @@
+{
+    "id": 3941,
+    "name": "too bad dont beat ts",
+    "creators": ["Hcmaxi"],
+    "verifier": "Hcmaxi",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "https://youtu.be/LkSmePU88BU",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+  "user": "ForbidBasket",
+  "link": "",
+  "percent": 100,
+  "mobile": false
+}
+    ],
+    "tags": ["Wave", "Fast-Paced"]
+}

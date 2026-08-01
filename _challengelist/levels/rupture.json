@@ -1,0 +1,18 @@
+{
+    "id": 3285,
+    "name": "Rupture",
+    "author": "ZephyrGMD",
+    "creators": ["ZephyrGMD"],
+    "verifier": "MacacoChucrut",
+    "verification": "https://youtu.be/i9qfOcyUyfk",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "lolpanda",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Wave", "High CPS"]
+}

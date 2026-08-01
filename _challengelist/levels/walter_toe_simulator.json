@@ -1,0 +1,17 @@
+{
+    "id": 3940,
+    "name": "Walter Toe Simulator",
+    "creators": ["ForbidBasket"],
+    "verifier": "lolpanda",
+    "verification": "https://www.youtube.com/watch?v=puyJevedQIY",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "https://youtu.be/LkSmePU88BU?t=20",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Wave", "Timings", "what the fuck is this"]
+}

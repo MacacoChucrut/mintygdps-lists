@@ -1,0 +1,18 @@
+{
+    "id": 1930,
+    "name": "simon wave trials",
+    "author": "Simon",
+    "creators": ["Simon"],
+    "verifier": "MacacoChucrut",
+    "verification": "https://youtu.be/QXpju_yOCf0",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/Jv6KVzL7bFc",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Wave", "Former Top 1"]
+}

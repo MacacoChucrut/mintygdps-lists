@@ -1,0 +1,66 @@
+{
+    "id": 2756,
+    "name": "sandstorm sunset",
+    "author": "PiGuy300",
+    "creators": ["PiGuy300"],
+    "verifier": "PiGuy300",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Mop",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "yeeee",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Virek",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Z3pH4x",
+            "link": "https://youtu.be/2bwslXk7axc?t=24",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+  "user": "Hcmaxi",
+  "link": "",
+  "percent": 100,
+  "mobile": false
+},
+        {
+  "user": "ForbidBasket",
+  "link": "",
+  "percent": 100,
+  "mobile": false
+},
+        {
+  "user": "lolpanda",
+  "link": "",
+  "percent": 100,
+  "mobile": false
+}
+    ],
+    "tags": ["Cube", "Timings", "Slow-Paced"]
+}

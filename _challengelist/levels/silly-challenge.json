@@ -1,0 +1,18 @@
+{
+    "id": 2642,
+    "name": "silly challenge",
+    "author": "MacacoChucrut",
+    "creators": ["yeeee"],
+    "verifier": "lolpanda",
+    "verification": "https://youtu.be/gCX6BTZw7J4",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "https://youtu.be/HMQ3UCxD3Cc?feature=shared",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Wave"]
+}

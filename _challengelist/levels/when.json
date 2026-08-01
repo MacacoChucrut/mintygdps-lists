@@ -1,0 +1,17 @@
+{
+    "id": 3636,
+    "name": "when",
+    "creators": ["ImNotPkpi"],
+    "verifier": "MacacoChucrut",
+    "verification": "https://youtu.be/Bkn-Uy1jZPo",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/tIbL59vUcro",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Cube", "Timings"]
+}

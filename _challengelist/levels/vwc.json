@@ -1,0 +1,60 @@
+{
+    "id": 2316,
+    "name": "VWC",
+    "author": "BoykisserShadow",
+    "creators": ["BoykisserShadow"],
+    "verifier": "BoykisserShadow",
+    "verification": "https://youtu.be/uzAks--JJjI?feature=shared",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Dracorex",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Virek",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Mop",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Dact",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "ImNotPkpi",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Z3pH4x",
+            "link": "https://youtu.be/g-jmb2Iq2V0?t=118",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Robot", "Timings", "Slow-Paced"]
+}

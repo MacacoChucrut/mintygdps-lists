@@ -1,0 +1,64 @@
+{
+    "id": 2288,
+    "name": "Syphon",
+    "creators": ["Virek"],
+    "verifier": "Virek",
+    "verification": "https://youtu.be/8oTQr_j3pRw?feature=shared",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "KauanValads123",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Dracorex",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Mop",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "ImNotPkpi",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Z3pH4x",
+            "link": "https://youtu.be/SBgiw9paDn0?si=NdtgFSRefCnJuKEc",
+            "percent": 100,
+            "mobile": false
+        },
+{
+  "user": "Hcmaxi",
+  "link": "",
+  "percent": 100,
+  "mobile": false
+},
+{
+  "user": "lolpanda",
+  "link": "",
+  "percent": 100
+}
+    ],
+    "tags": ["Timings", "Wave", "Slow-Paced"]
+}

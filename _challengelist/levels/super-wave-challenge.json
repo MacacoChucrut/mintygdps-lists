@@ -1,0 +1,18 @@
+{
+    "id": 3253,
+    "name": "Super wave challenge",
+    "author": "Anduval",
+    "creators": ["Virek"],
+    "verifier": "MacacoChucrut",
+    "verification": "https://youtu.be/T5KT9mSpNSI",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/QQihv2u2-KM",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Wave", "Fast-Paced"]
+}

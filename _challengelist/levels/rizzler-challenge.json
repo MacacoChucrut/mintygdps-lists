@@ -1,0 +1,35 @@
+{
+    "id": 3625,
+    "name": "Rizzler Challenge",
+    "creators": ["Gemstone"],
+    "verifier": "Gemstone",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Emerald",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/0xyxZTMcXjQ",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Cube", "Timings", "Slow-Paced"]
+}

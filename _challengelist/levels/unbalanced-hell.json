@@ -1,0 +1,18 @@
+{
+    "id": 2641,
+    "name": "unbalanced hell",
+    "author": "MacacoChucrut",
+    "creators": ["yeeee"],
+    "verifier": "lolpanda",
+    "verification": "https://youtu.be/O2WuwzkUs2w",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "https://youtu.be/H0KB0kV_lbA?feature=shared",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Timings", "Chokepoints", "Slow-Paced"]
+}
