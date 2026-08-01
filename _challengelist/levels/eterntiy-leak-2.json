@@ -1,0 +1,23 @@
+{
+    "id": 3601,
+    "name": "eterntiy leak 2",
+    "creators": ["majin"],
+    "verifier": "majin",
+    "verification": "https://youtu.be/LwAoPp71cHw",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "https://youtu.be/i7JKA-ktNRg",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/MD2tcjSgyo4",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Timings", "Memory"]
+}

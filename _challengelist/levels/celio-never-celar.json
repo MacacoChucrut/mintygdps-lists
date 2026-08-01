@@ -1,0 +1,64 @@
+{
+    "id": 2290,
+    "name": "celio never celar",
+    "author": "MacacoChucrut",
+    "creators": ["MacacoChucrut"],
+    "verifier": "MacacoChucrut",
+    "verification": "https://youtu.be/PjfTe9ScvEM?feature=shared",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "KauanValads123",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Zceliojunior",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "ImNotPkpi",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Virek",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Quantium",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+  "user": "ForbidBasket",
+  "link": "",
+  "percent": 100,
+  "mobile": false
+},
+        {
+  "user": "BoykisserShadow",
+  "link": "",
+  "percent": 100
+},
+        {
+  "user": "hcmaxi",
+  "link": "",
+  "percent": 100
+}
+    ],
+    "tags": ["what the fuck is this"]
+}

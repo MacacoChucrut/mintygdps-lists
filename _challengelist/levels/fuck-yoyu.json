@@ -1,0 +1,48 @@
+{
+    "id": 2660,
+    "name": "FUCK YOYU",
+    "author": "Dact",
+    "creators": ["Dact"],
+    "verifier": "Dact",
+    "verification": "https://youtu.be/ZJKl0ycAqWg",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "yeeee",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/GO9o_NyAPQk",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Hcmaxi",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+  "user": "ForbidBasket",
+  "link": "",
+  "percent": 100,
+  "mobile": false
+}
+    ],
+    "tags": ["Ship"]
+}

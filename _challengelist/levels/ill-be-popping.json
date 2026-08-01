@@ -1,0 +1,60 @@
+{
+    "id": 2321,
+    "name": "ILL BE POPPING",
+    "author": "BoykisserShadow",
+    "creators": ["BoykisserShadow"],
+    "verifier": "BoykisserShadow",
+    "verification": "https://youtu.be/3bvQiCBwfJc?feature=shared",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Mop",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Dracorex",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Virek",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Funny",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "ImNotPkpi",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "ForbidBasket",
+            "link": "https://youtu.be/9oYV16HdNXE",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Wave", "Slow-Paced"]
+}

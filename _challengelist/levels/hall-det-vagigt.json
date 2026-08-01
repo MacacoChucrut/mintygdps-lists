@@ -1,0 +1,23 @@
+{
+  "id": 4283,
+  "name": "Hall det vagigt",
+  "creators": ["ForbidBasket"],
+  "verifier": "ForbidBasket",
+  "verification": "https://www.youtube.com/watch?v=OaDhH-M8rtc",
+  "showcase": "#",
+  "percentToQualify": 100,
+  "records": [
+    {
+      "user": "Hcmaxi",
+      "link": "",
+      "percent": 100,
+      "mobile": false
+    },
+    {
+      "user": "lolpanda",
+      "link": "",
+      "percent": 100
+    }
+  ],
+  "tags": ["Wave", "Slow-Paced"]
+}

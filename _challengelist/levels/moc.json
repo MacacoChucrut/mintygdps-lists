@@ -1,0 +1,30 @@
+{
+    "id": 509,
+    "name": "moc",
+    "author": "JustaGdPlayer",
+    "creators": ["JustaGdPlayer"],
+    "verifier": "JustaGdPlayer",
+    "verification": "https://youtu.be/2uENI6dynHE?feature=shared",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "ZacanaiiUwU",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/yVNNd188QWI",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Timings", "Wave", "Formerly Rated", "Former Top 1"]
+}

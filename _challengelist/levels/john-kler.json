@@ -1,0 +1,24 @@
+{
+    "id": 2937,
+    "name": "John Kler",
+    "author": "majin",
+    "creators": ["majin"],
+    "verifier": "majin",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "https://youtu.be/cYqosn0ceBM",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/DA2A7tVyqP8",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Wave", "High CPS"]
+}

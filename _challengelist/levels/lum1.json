@@ -1,0 +1,29 @@
+{
+    "id": 3815,
+    "name": "lum1",
+    "creators": ["lumi"],
+    "verifier": "lumi",
+    "verification": "https://youtu.be/SU_yKWLQ7J4",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "ari",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/MDtv0y4XMSg",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Wave", "High CPS", "Slow-Paced"]
+}

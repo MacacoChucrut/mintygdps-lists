@@ -1,0 +1,35 @@
+{
+    "id": 2731,
+    "name": "Placehold Challenge",
+    "creators": ["Gonci"],
+    "verifier": "Gonci",
+    "verification": "https://youtu.be/8JY-61ucwO0",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "ImNotPkpi",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/xRAJcEkLFgA",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Robot", "Timings", "Slow-Paced"]
+}

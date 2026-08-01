@@ -1,0 +1,24 @@
+{
+  "id": 4287,
+  "name": "Racing into midnight",
+  "creators": ["Hcmaxi"],
+  "verifier": "Hcmaxi",
+  "verification": "https://youtu.be/o_W2HiUnwO8",
+  "showcase": "EMPTY",
+  "percentToQualify": 100,
+  "records": [
+    {
+      "user": "lolpanda",
+      "link": "https://youtu.be/wQiU0Xouy68",
+      "percent": 100,
+      "mobile": false
+    },
+    {
+      "user": "john trustworthy",
+      "link": "https://youtu.be/4E_Lh4QGr8w",
+      "percent": 100,
+      "mobile": false
+    }
+  ],
+  "tags": ["Ship", "Timings", "Fast-Paced", "High CPS"]
+}

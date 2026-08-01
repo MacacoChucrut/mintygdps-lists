@@ -1,0 +1,29 @@
+{
+    "id": 3985,
+    "name": "Herobrain Challenge (Gemstone)",
+    "creators": ["Gemstone"],
+    "verifier": "Gemstone",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Quantium",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+  "user": "lolpanda",
+  "link": "",
+  "percent": 100,
+  "mobile": false
+}
+    ],
+    "tags": ["Fast-Paced"]
+}

@@ -1,0 +1,29 @@
+{
+    "id": 2462,
+    "name": "Lucio Beta",
+    "creators": ["ZephyrGMD"],
+    "verifier": "ZephyrGMD",
+    "verification": "https://youtu.be/jB24zT20coE",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "ImNotPkpi",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Learny", "Gimmicky"]
+}

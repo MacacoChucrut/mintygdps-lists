@@ -1,0 +1,18 @@
+{
+    "id": 2329,
+    "name": "8 Jumps of Blue",
+    "author": "MacacoChucrut",
+    "creators": ["Herobrain"],
+    "verifier": "MacacoChucrut",
+    "verification": "https://youtu.be/A4YXNnhRCOU",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/ZGRHPzoEuWc",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Cube", "Timings", "Slow-Paced"]
+}

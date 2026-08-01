@@ -1,0 +1,29 @@
+{
+    "id": 3402,
+    "name": "Back on track",
+    "creators": ["Virek"],
+    "verifier": "Virek",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/IetTygKWb8A?si=X78jhg7fK75wXF5_",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Wave", "Chokepoints", "High CPS", "Slow-Paced"]
+}

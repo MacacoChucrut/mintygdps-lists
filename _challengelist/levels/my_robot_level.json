@@ -1,0 +1,27 @@
+{
+  "id": 4595,
+  "name": "my robot level",
+  "creators": [
+    "BoykisserShadow"
+  ],
+  "verifier": "BoykisserShadow",
+  "verification": "",
+  "showcase": "",
+  "records": [
+    {
+      "user": "A01",
+      "link": "",
+      "percent": 100
+    },
+    {
+      "user": "MacacoChucrut",
+      "link": "",
+      "percent": 100
+    }
+  ],
+  "tags": [
+    "Timings",
+    "Robot",
+    "Slow"
+  ]
+}

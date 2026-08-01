@@ -1,0 +1,23 @@
+{
+  "id": 4281,
+  "name": "Homo Wave",
+  "creators": ["ForbidBasket"],
+  "verifier": "ForbidBasket",
+  "verification": "https://youtu.be/zvM8F0EVMp8",
+  "showcase": "#",
+  "percentToQualify": 100,
+  "records": [
+    {
+      "user": "Hcmaxi",
+      "link": "",
+      "percent": 100,
+      "mobile": false
+    },
+    {
+  "user": "lolpanda",
+  "link": "",
+  "percent": 100
+}
+  ],
+  "tags": ["Wave", "Fast-Paced"]
+}

@@ -1,0 +1,41 @@
+{
+    "id": 4056,
+    "name": "Berdly Never Clear",
+    "creators": ["Gemstone"],
+    "verifier": "Gemstone",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "ImNotPkpi",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Virek",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+  "user": "ForbidBasket",
+  "link": "",
+  "percent": 100,
+  "mobile": false
+}
+    ],
+    "tags": ["Wave", "Fast-Paced"]
+}

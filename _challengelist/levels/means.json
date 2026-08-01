@@ -1,0 +1,41 @@
+{
+    "id": 1002,
+    "name": "means",
+    "author": "abs",
+    "creators": ["abs"],
+    "verifier": "abs",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "abdgdps",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Virek",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/hw79pFpLFxI",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+      "user": "A01",
+      "link": "",
+      "percent": 100
+    }
+    ],
+    "tags": ["Cube", "Timings", "Slow-Paced"]
+}

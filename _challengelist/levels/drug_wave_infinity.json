@@ -1,0 +1,22 @@
+{
+    "id": 4194,
+    "name": "drug wave infinity",
+    "creators": ["majin, Cyclic"],
+    "verifier": "majin",
+    "verification": "https://youtu.be/xaqQNCdt3wc",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "https://youtu.be/ARSWX2Hz49s",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+  "user": "lolpanda",
+  "link": "https://medal.tv/games/geometry-dash/clips/mYUW3yrDcvSNoWqQ6?invite=cr-MSxtQTEsNjUwOTA0Nzk5&v=36",
+  "percent": 100
+}
+    ],
+    "tags": ["Wave", "Fast-Paced"]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 3883,
+    "name": "0JoH",
+    "creators": ["Denz8ty"],
+    "verifier": "Denz8ty",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "ForbidBasket",
+            "link": "https://youtu.be/9oYV16HdNXE",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+  "user": "lolpanda",
+  "link": "",
+  "percent": 100
+} 
+
+    ],
+    "tags": ["Cube", "Timings"]
+}

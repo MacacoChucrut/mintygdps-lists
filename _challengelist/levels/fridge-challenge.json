@@ -1,0 +1,35 @@
+{
+    "id": 3781,
+    "name": "Fridge Challenge",
+    "creators": ["Mop"],
+    "verifier": "Mop",
+    "verification": "https://youtu.be/-iteqB2PB4Y",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "ImNotPkpi",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+  "user": "lolpanda",
+  "link": "",
+  "percent": 100,
+  "mobile": false
+}
+    ],
+    "tags": ["Wave"]
+}

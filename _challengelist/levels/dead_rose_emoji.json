@@ -1,0 +1,29 @@
+{
+    "id": 4090,
+    "name": "Dead Rose Emoji",
+    "creators": ["Gemstone"],
+    "verifier": "Gemstone",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+  "user": "ForbidBasket",
+  "link": "",
+  "percent": 100,
+  "mobile": false
+}
+    ],
+    "tags": ["High CPS"]
+}

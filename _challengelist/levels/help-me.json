@@ -1,0 +1,35 @@
+{
+    "id": 3757,
+    "name": "Help me",
+    "creators": ["Mop"],
+    "verifier": "Mop",
+    "verification": "https://m.youtube.com/watch?v=xQv4QVUiOi0",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "ImNotPkpi",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+  "user": "lolpanda",
+  "link": "",
+  "percent": 100,
+  "mobile": false
+}
+    ],
+    "tags": ["Wave"]
+}

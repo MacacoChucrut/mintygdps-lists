@@ -1,0 +1,42 @@
+{
+    "id": 2299,
+    "name": "Little challenge (Solo)",
+    "author": "Anduval",
+    "creators": ["Virek"],
+    "verifier": "Virek",
+    "verification": "https://youtu.be/6u-Xdx1_EjY?feature=shared",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Dracorex",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Mop",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "ImNotPkpi",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Wave", "2P"]
+}

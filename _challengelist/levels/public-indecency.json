@@ -1,0 +1,48 @@
+{
+    "id": 2006,
+    "name": "public indecency",
+    "author": "Simon",
+    "creators": ["Simon"],
+    "verifier": "Simon",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "carti",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Virek",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "ImNotPkpi",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+  "user": "lolpanda",
+  "link": "",
+  "percent": 100,
+  "mobile": false
+}
+    ],
+    "tags": ["Timings"]
+}

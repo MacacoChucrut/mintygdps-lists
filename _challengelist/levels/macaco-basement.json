@@ -1,0 +1,23 @@
+{
+    "id": 3718,
+    "name": "Macaco Basement (Solo)",
+    "creators": ["Gemstone"],
+    "verifier": "Gemstone",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "https://youtu.be/Gzs5zj141iI",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/A52KXEdD6Ys",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Memory", "2P", "Slow-Paced"]
+}

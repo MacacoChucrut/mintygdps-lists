@@ -1,0 +1,17 @@
+{
+    "id": 4024,
+    "name": "hippopottamusphobia",
+    "creators": ["hcmaxi"],
+    "verifier": "lolpanda",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "https://youtu.be/BZK0zOdptkU",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Wave", "Timings", "High CPS"]
+}

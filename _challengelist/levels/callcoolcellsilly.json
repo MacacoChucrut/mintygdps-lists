@@ -1,0 +1,23 @@
+{
+    "id": 3955,
+    "name": "CallCoolCellSilly",
+    "creators": ["Herobrain"],
+    "verifier": "Herobrain",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "https://youtu.be/C9WsnVB8EXI?t=91",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/qTFmrfxkArg",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Cube", "Spider", "Timings", "Learny", "High CPS"]
+}

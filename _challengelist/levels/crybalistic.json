@@ -1,0 +1,60 @@
+{
+    "id": 110,
+    "name": "crybalistic",
+    "author": "jose",
+    "creators": ["jose"],
+    "verifier": "jose",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "WrongBlock",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "ImNotPkpi",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Virek",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Mop",
+            "link": "https://youtu.be/STkzq6VCZQs",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/rASQXW9w7uo",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+  "user": "Hcmaxi",
+  "link": "",
+  "percent": 100,
+  "mobile": false
+}
+    ],
+    "tags": ["Wave", "Former Top 1"]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 2358,
+    "name": "I see",
+    "creators": ["Mop"],
+    "verifier": "Mop",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "nightsIris",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Virek",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "ImNotPkpi",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Z3pH4x",
+            "link": "https://youtu.be/g-jmb2Iq2V0?t=149",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/e6YKpl_GZ9U",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Wave", "Fast-Paced"]
+}

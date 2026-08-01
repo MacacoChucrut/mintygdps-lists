@@ -1,0 +1,18 @@
+{
+    "id": 3310,
+    "name": "botox",
+    "author": "TheeNegativee",
+    "creators": ["TheeNegativee, majin"],
+    "verifier": "IceIsNice",
+    "verification": "https://youtu.be/pmWHdBwTcek",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "https://youtu.be/5J0Uwdhgu48",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Wave", "High CPS", "Fast-Paced"]
+}

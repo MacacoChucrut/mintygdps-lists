@@ -1,0 +1,36 @@
+{
+    "id": 2324,
+    "name": "10 jumps of ASIAN",
+    "author": "Zceliojunior",
+    "creators": ["Zceliojunior"],
+    "verifier": "Zceliojunior",
+    "verification": "https://youtu.be/MnKAb3hsigQ?feature=shared",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "Mop",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "Herobrain",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+            "user": "lolpanda",
+            "link": "https://youtu.be/SVGbt9slpNU",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": ["Robot", "Timings"]
+}

@@ -1,0 +1,22 @@
+{
+    "id": 4085,
+    "name": "heliopolis temu",
+    "creators": ["Gemstone"],
+    "verifier": "Gemstone",
+    "verification": "#",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100,
+            "mobile": false
+        },
+        {
+      "user": "lolpanda",
+      "link": "",
+      "percent": 100
+    }
+    ],
+    "tags": ["Cube", "Timings", "Slow-Paced"]
+}
