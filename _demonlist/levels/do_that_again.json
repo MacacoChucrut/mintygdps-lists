@@ -1,0 +1,33 @@
+{
+    "id": 3029,
+    "name": "Do That Again",
+    "creators": [
+        "Herobrain"
+    ],
+    "verifier": "Herobrain",
+    "verification": "#",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "#",
+            "percent": 100
+        },
+        {
+            "user": "Quantium",
+            "link": "#",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "velocity",
+            "link": "https://medal.tv/games/geometry-dash/clips/mXWRb4QIITrS8xzZ5?invite=cr-MSxpMmosNDc1MjUyNDQ2",
+            "percent": 100,
+            "mobile": false
+        }
+    ],
+    "tags": [
+        "Overall",
+        "Nerve Control",
+        "XXL"
+    ]
+}
