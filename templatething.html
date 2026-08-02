@@ -76,7 +76,7 @@ function generateLevelJSON(){
     creators: creators.split(",").map(s => s.trim()),
     verifier,
     verification: verif,
-    showcase: show || "EMPTY",
+    showcase: show,
     records: [],
     tags: tags ? tags.split(",").map(s => s.trim()) : []
   };
