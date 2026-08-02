@@ -59,12 +59,20 @@ export default {
                         <li>For a level to place, it must be harder than the level placed at #100.</li>
                         <li>Random Triggers are allowed as long as all outcomes are of equal difficulty. They may not affect the gameplay or visual difficulty.</li>
                         <li>Copying levels outside the GDPS is allowed as long as significant modifications are made to the gameplay or decoration. Direct copies or slightly edited versions are not allowed.</li>
+                        <li>Reuploaded levels are allowed only if every creator and the verifier have joined the GDPS.</li>
+                        <li>Reuploaded levels are judged more strictly to prevent low quality or joke levels from filling the list. Any original GDPS level is eligible for the list as long as it meets the other requirements.</li>
+                        <li>Reuploaded levels cannot be Top #1 difficulty.</li>
+                        <li>Please avoid reuploading a large number of levels in a short period of time. Excessive submissions may be rejected or delayed.</li>
                     
                     <h2>UNRATED LIST RULES</h2>
                         <li>Video proof is required for <strong>Top 2 levels.</strong></li>
                         <li>Levels must be at least 30 seconds long.</li>
                         <li>Random Triggers are allowed as long as all outcomes are of equal difficulty. They may not affect the gameplay or visual difficulty.</li>
                         <li>Copying levels outside the GDPS is allowed as long as significant modifications are made to the gameplay or decoration. Direct copies or slightly edited versions are not allowed.</li>
+                        <li>Reuploaded levels are allowed only if every creator and the verifier have joined the GDPS.</li>
+                        <li>Reuploaded levels are judged more strictly to prevent low quality or joke levels from filling the list. Any original GDPS level is eligible for the list as long as it meets the other requirements.</li>
+                        <li>Reuploaded levels cannot be Top #1 difficulty.</li>
+                        <li>Please avoid reuploading a large number of levels in a short period of time. Excessive submissions may be rejected or delayed.</li>
                 </section>
             </template>
         </main>
