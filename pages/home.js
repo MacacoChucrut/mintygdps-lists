@@ -59,7 +59,7 @@ export default {
                         <li>Random Triggers are allowed as long as all outcomes are of equal difficulty. They may not affect the gameplay or visual difficulty.</li>
                         <li>Copying levels outside the GDPS is allowed as long as significant modifications are made to the gameplay or decoration. Direct copies or slightly edited versions are not allowed.</li>
                         <li>Reuploaded levels are allowed only if every creator and the verifier have joined the GDPS.</li>
-                        <li>Reuploaded levels are judged more strictly to prevent low quality or joke levels from filling the list. Any original GDPS level is eligible for the list as long as it meets the other requirements.</li>
+                        <li>Reuploaded levels are judged more strictly to prevent low quality or joke levels from filling the list.</li>
                         <li>Reuploaded levels cannot be Top #1 difficulty.</li>
                         <li>Please avoid reuploading a large number of levels in a short period of time. Excessive submissions may be rejected or delayed.</li>
                     
@@ -69,7 +69,7 @@ export default {
                         <li>Random Triggers are allowed as long as all outcomes are of equal difficulty. They may not affect the gameplay or visual difficulty.</li>
                         <li>Copying levels outside the GDPS is allowed as long as significant modifications are made to the gameplay or decoration. Direct copies or slightly edited versions are not allowed.</li>
                         <li>Reuploaded levels are allowed only if every creator and the verifier have joined the GDPS.</li>
-                        <li>Reuploaded levels are judged more strictly to prevent low quality or joke levels from filling the list. Any original GDPS level is eligible for the list as long as it meets the other requirements.</li>
+                        <li>Reuploaded levels are judged more strictly to prevent low quality or joke levels from filling the list.</li>
                         <li>Reuploaded levels cannot be Top #1 difficulty.</li>
                         <li>Please avoid reuploading a large number of levels in a short period of time. Excessive submissions may be rejected or delayed.</li>
                 </section>
