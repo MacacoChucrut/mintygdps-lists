@@ -36,7 +36,7 @@ export default {
                 </section>
 
                 <section class="requirements">
-                    <h2>GENERAL RULES</h2>
+                    <a href="https://mintygdps-lists.vercel.app/templatething.html"><h2>GENERAL RULES</h2></a>
                         <li><strong>You must follow these rules across all lists.</strong></li>
                         <li>Verifications must be uploaded to YouTube or Medal.</li>
                         <li>Your clicks must be fully audible throughout the entire completion.</li>
