@@ -1,18 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <style>
+    .inputs {
+      display: flex;
+    }
+  </style>
 </head>
 <body>
-
+  
   <h2>MAKE LEVEL SHIT</h2>
 
-  <input id="levelId" placeholder="ID">
-  <input id="levelName" placeholder="Level Name">
-  <input id="levelCreators" placeholder="Creators (comma separated / example: Quantium, Herobrain, velocity)">
-  <input id="levelVerifier" placeholder="Verifier">
-  <input id="levelVerifLink" placeholder="Verification Link (Optional)">
-  <input id="levelShowcase" placeholder="Showcase Link (Optional)">
-  <input id="levelTags" placeholder="Tags (comma separated)">
+  <div class="inputs">
+    <input id="levelId" placeholder="ID">
+    <input id="levelName" placeholder="Level Name">
+    <input id="levelCreators" placeholder="Creators (comma separated / example: Quantium, Herobrain, velocity)">
+    <input id="levelVerifier" placeholder="Verifier">
+    <input id="levelVerifLink" placeholder="Verification Link (Optional)">
+    <input id="levelShowcase" placeholder="Showcase Link (Optional)">
+    <input id="levelTags" placeholder="Tags (comma separated)">
+  </div>
 
   <button onclick="generateLevelJSON()">Generate JSON</button>
 
