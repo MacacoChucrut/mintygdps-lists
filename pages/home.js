@@ -56,7 +56,6 @@ export default {
                     <h2>CHALLENGE LIST RULES</h2>
                         <li>Video proof is required for <strong>Top 40 Challenges.</strong></li>
                         <li>Levels can last up to 29 seconds.</li>
-                        <li>For a level to place, it must be harder than the level placed at #100.</li>
                         <li>Random Triggers are allowed as long as all outcomes are of equal difficulty. They may not affect the gameplay or visual difficulty.</li>
                         <li>Copying levels outside the GDPS is allowed as long as significant modifications are made to the gameplay or decoration. Direct copies or slightly edited versions are not allowed.</li>
                         <li>Reuploaded levels are allowed only if every creator and the verifier have joined the GDPS.</li>
