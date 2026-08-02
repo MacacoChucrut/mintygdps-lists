@@ -28,18 +28,18 @@
 
   <div class="inputs">
     <input id="levelId" placeholder="ID">
-    <input id="levelName" placeholder="Level Name">
-    <input id="levelCreators" placeholder="Creators (comma separated / example: Quantium, Herobrain, velocity)">
-    <input id="levelVerifier" placeholder="Verifier">
-    <input id="levelVerifLink" placeholder="Verification Link (Optional)">
-    <input id="levelShowcase" placeholder="Showcase Link (Optional)">
-    <input id="levelTags" placeholder="Tags (comma separated)">
+    <input id="levelName" placeholder="level name">
+    <input id="levelCreators" placeholder="creators (comma separated)">
+    <input id="levelVerifier" placeholder="verifier">
+    <input id="levelVerifLink" placeholder="verification">
+    <input id="levelShowcase" placeholder="showcase">
+    <input id="levelTags" placeholder="tags (comma separated)">
   </div>
 
-  <button onclick="generateLevelJSON()">Generate JSON</button>
+  <button onclick="generateLevelJSON()">generate</button>
 
   <textarea id="levelOutput" readonly></textarea>
-  <button onclick="copyText('levelOutput')">Copy</button>
+  <button onclick="copyText('levelOutput')">copy</button>
 
   <hr>
 
@@ -48,10 +48,10 @@
   <input id="recUser" placeholder="Username">
   <input id="recLink" placeholder="Video link (Optional)">
 
-  <button onclick="generateRecord()">Generate Record</button>
+  <button onclick="generateRecord()">generate</button>
 
   <textarea id="recordOutput" readonly></textarea>
-  <button onclick="copyText('recordOutput')">Copy</button>
+  <button onclick="copyText('recordOutput')">copy</button>
 
 <script>
 function addToList(){
