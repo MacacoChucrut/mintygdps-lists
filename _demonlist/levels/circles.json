@@ -93,7 +93,12 @@
             "link": "",
             "percent": 100,
             "mobile": false
-        }  
+        },
+        {
+      "user": "KindaExpert",
+      "link": "",
+      "percent": 100
+    }
     ],
     "tags": [
         "Wave",
