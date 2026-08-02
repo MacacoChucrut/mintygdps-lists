@@ -51,17 +51,17 @@ export default {
                         <li>If your record is in the Top 3, you must have raw footage with isolated clicks, uploaded in a downloadable format (e.g. Google Drive) and submitted along with your public video.</li>
                     
                     <h2>PEMONLIST RULES</h2>
-                        <li>Video proof is required for <strong>Top 3 Pemons.</strong></li>
+                        <li>Video proof is required for the <strong>Top 1 Pemon.</strong></li>
 
-                    <h2>CHALLENGE LIST</h2>
+                    <h2>CHALLENGE LIST RULES</h2>
                         <li>Video proof is required for <strong>Top 40 Challenges.</strong></li>
                         <li>Levels can last up to 29 seconds.</li>
                         <li>For a level to place, it must be harder than the level placed at #100.</li>
                         <li>Random Triggers are allowed as long as all outcomes are of equal difficulty. They may not affect the gameplay or visual difficulty.</li>
                         <li>Copying levels outside the GDPS is allowed as long as significant modifications are made to the gameplay or decoration. Direct copies or slightly edited versions are not allowed.</li>
                     
-                    <h2>UNRATED LIST</h2>
-                        <li>Video proof is required for <strong>Top 3 levels.</strong></li>
+                    <h2>UNRATED LIST RULES</h2>
+                        <li>Video proof is required for <strong>Top 2 levels.</strong></li>
                         <li>Levels must be at least 30 seconds long.</li>
                         <li>Random Triggers are allowed as long as all outcomes are of equal difficulty. They may not affect the gameplay or visual difficulty.</li>
                         <li>Copying levels outside the GDPS is allowed as long as significant modifications are made to the gameplay or decoration. Direct copies or slightly edited versions are not allowed.</li>
