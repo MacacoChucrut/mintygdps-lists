@@ -1,12 +1,10 @@
 {
     "id": 2987,
     "name": "BaBa Mem0 Gayme (Solo)",
-    "author": "SpaceCanada",
     "creators": ["SpaceXD"],
     "verifier": "MacacoChucrut",
     "verification": "https://youtu.be/s8Rdl6e-V-Y",
-    "percentToQualify": "100",
     "records": [
     ],
-    "tags": ["2P", "Memory"]
+    "tags": ["2P", "High CPS", "Memory"]
 }
