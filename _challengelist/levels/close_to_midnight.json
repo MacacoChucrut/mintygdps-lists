@@ -4,13 +4,14 @@
     "creators": ["SebbeNV"],
     "verifier": "SebbeNV",
     "verification": "#",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "MacacoChucrut",
-            "link": "https://youtu.be/BZK0zOdptkU?t=23",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/BZK0zOdptkU?t=23"
+        },
+        {
+            "user": "lolpanda",
+            "link": ""
         }
     ],
     "tags": ["Ship", "Fast-Paced"]
