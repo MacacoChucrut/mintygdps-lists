@@ -4,8 +4,12 @@
     "creators": ["edmundopozo", "MacacoChucrut"],
     "verifier": "MacacoChucrut",
     "verification": "https://youtu.be/wYzbx0NGue4",
-    "percentToQualify": "100",
     "records": [
+        {
+      "user": "lolpanda",
+      "link": "https://medal.tv/games/geometry-dash/clips/nePfAYyqvVPLQK_Yu?invite=cr-MSxsZFAsNjUwOTA0Nzk5",
+      "percent": 100
+    }
     ],
     "tags": ["Wave", "High CPS"]
 }
