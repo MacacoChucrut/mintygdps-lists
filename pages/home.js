@@ -43,7 +43,7 @@ export default {
                         <li>Click sound mods and clickbots are not allowed.</li>
                         <li>Cheat indicator is required if a modmenu with that feature is being used.</li>
                         <li>You may not use any disallowed mods. A list of what we allow and don't allow can be found <a href="https://docs.google.com/spreadsheets/d/1M4vXMxHcYwtstB6SD9r4lPFotUXhz3IL9D_3JX8tjyE/edit?gid=1204643762#gid=1204643762" target="_blank">here.</a></li>
-                        <li>Your record must show the stats on the "Level Complete!" endscreen (attempts, orbs, etc).</li>
+                        <li>Your record must show the stats on the "Level Complete!" and stats endscreen (attempts, orbs, etc).</li>
                         <li>You may not use any skips that make any section of the level significantly easier.</li>
                     
                     <h2>DEMONLIST RULES</h2>
