@@ -6,9 +6,9 @@ import Spinner from "../js/spinner.js";
 import LevelAuthors from "../js/levelauthors.js";
 
 function getRankColor(rank) {
-    if (rank === 1) return '#FFD700';
-    if (rank === 2) return '#C0C0C0';
-    if (rank === 3) return '#CD7F32';
+    if (rank === 1) return '#fd0';
+    if (rank === 2) return '#bbb';
+    if (rank === 3) return '#c73';
     if (rank > 200) return 'var(--color-legacy)';
     return null;
 }
