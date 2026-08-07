@@ -14,7 +14,7 @@
         },
         {
             "user": "MacacoChucrut",
-            "link": "#",
+            "link": "#", 
             "percent": 100,
             "mobile": false
         },
@@ -34,7 +34,12 @@
   "user": "lolpanda",
   "link": "",
   "percent": 100
-}   
+},
+        {
+            "user": "Hcmaxi",
+            "link": "",
+            "percent": 100
+        }
     ],
     "tags": ["Wave", "Slow-Paced"]
 }
