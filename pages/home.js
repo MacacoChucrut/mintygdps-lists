@@ -64,8 +64,9 @@ export default {
                         <li>Please avoid reuploading a large number of levels in a short period of time. Excessive submissions may be rejected or delayed.</li>
                     
                     <h2>UNRATED LIST RULES</h2>
-                        <li>Video proof is required for <strong>Top 2 levels.</strong></li>
+                        <li>Video proof is required for <strong>Top 3 levels.</strong></li>
                         <li>Levels must be at least 30 seconds long.</li>
+                        <li>Levels must be at least Easy Demon difficulty (GDPS standards)</li>
                         <li>Random Triggers are allowed as long as all outcomes are of equal difficulty. They may not affect the gameplay or visual difficulty.</li>
                         <li>Copying levels outside the GDPS is allowed as long as significant modifications are made to the gameplay or decoration. Direct copies or slightly edited versions are not allowed.</li>
                         <li>Reuploaded levels are allowed only if every creator and the verifier have joined the GDPS.</li>
