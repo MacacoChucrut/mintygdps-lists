@@ -4,41 +4,30 @@
     "creators": ["Gemstone"],
     "verifier": "Emerald",
     "verification": "#",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "Gemstone",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": ""
         },
         {
             "user": "MacacoChucrut",
-            "link": "#", 
-            "percent": 100,
-            "mobile": false
+            "link": ""
         },
         {
             "user": "Herobrain",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": ""
         },
         {
             "user": "ForbidBasket",
-            "link": "https://youtu.be/9oYV16HdNXE",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/9oYV16HdNXE"
         },
-     {
-  "user": "lolpanda",
-  "link": "",
-  "percent": 100
-},
+        {
+            "user": "lolpanda",
+            "link": ""
+        },
         {
             "user": "Hcmaxi",
-            "link": "",
-            "percent": 100
+            "link": ""
         }
     ],
     "tags": ["Wave", "Slow-Paced"]
