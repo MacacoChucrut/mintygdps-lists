@@ -9,21 +9,15 @@
   "records": [
     {
       "user": "Hcmaxi",
-      "link": "",
-      "percent": 100,
-      "mobile": false
+      "link": ""
     },
     {
       "user": "lolpanda",
-      "link": "",
-      "percent": 100,
-      "mobile": false
+      "link": ""
     },
     {
-      "user": "MacacoChucrut"
-      "link": "",
-      "percent": 100,
-      "mobile": false
+      "user": "MacacoChucrut",
+      "link": ""
     }
   ],
   "tags": ["Wave", "Fast-Paced"]
