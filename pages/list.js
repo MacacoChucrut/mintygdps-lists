@@ -136,9 +136,11 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">ID</div>
-                            <p>
-                                {{ level.id }}
-                            </p>
+                            <p>{{ level.id }}</p>
+                        </li>
+                        <li>
+                            <div class="type-title-sm">Method</div>
+                            <p>{{ level.method }}</p>
                         </li>
                     </ul>
 
