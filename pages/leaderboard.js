@@ -148,7 +148,7 @@ export default {
         this.loading = true;
 
         const [leaderboard, err] = await fetchLeaderboard(this.listName);
-        const excludedUsers = ["None", "-", "ribbonera", "Artimae", "KanyeWestOfficial", "Dino", "Vertix", "Verim", "ZacanaiiUwU", "ForbidBasket", "Cash", "Cashy"];
+        const excludedUsers = ["None", "-", "ribbonera", "Artimae", "KanyeWestOfficial", "Dino", "Vertix", "Verim", "ForbidBasket", "Cash", "Cashy"];
         this.leaderboard = leaderboard.filter(player => !excludedUsers.includes(player.user));
         this.err = err;
 
