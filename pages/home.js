@@ -45,7 +45,7 @@ export default {
                         <li>You may not use any disallowed mods. A list of what we allow and don't allow can be found <a href="https://docs.google.com/spreadsheets/d/1M4vXMxHcYwtstB6SD9r4lPFotUXhz3IL9D_3JX8tjyE/edit?gid=1204643762#gid=1204643762" target="_blank">here.</a></li>
                         <li>Your record must show the stats on the "Level Complete!" and stats endscreen (attempts, orbs, etc).</li>
                         <li>You may not use any skips that make any section of the level significantly easier.</li>
-                        <li>If a level specifies a <strong>Method</strong> or <strong>FPS</strong>, you must follow those parameters. If left blank, any method or FPS setup is allowed (this applies primarily to the Challenge and Unrated List).</li>
+                        <li>If a level specifies a Method and/or FPS, you must follow those parameters. This applies primarily to the Challenge List, as using a different setup can drastically change the way the level plays or make it impossible. If left blank, any method or FPS setup is allowed.</li>
                         <li>Changing your FPS mid-attempt is not allowed.</li>
                     
                     <h2>DEMONLIST RULES</h2>
