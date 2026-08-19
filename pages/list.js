@@ -138,6 +138,10 @@ export default {
                             <div class="type-title-sm">ID</div>
                             <p>{{ level.id }}</p>
                         </li>
+                        <li v-if="level.fps">
+                            <div class="type-title-sm">FPS</div>
+                            <p>{{ level.fps }}</p>
+                        </li>
                         <li v-if="level.method">
                             <div class="type-title-sm">Method</div>
                             <p>{{ level.method }}</p>
