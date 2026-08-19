@@ -5,7 +5,7 @@
     "creators": ["MacacoChucrut"],
     "verifier": "MacacoChucrut",
     "verification": "https://youtu.be/rO1i_FvY0Jw",
-    "percentToQualify": "100",
+    "fps": "60",
     "records": [
         {
             "user": "lolpanda",
