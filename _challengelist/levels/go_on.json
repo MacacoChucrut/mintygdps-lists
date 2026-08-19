@@ -7,6 +7,8 @@
   "verifier": "MacacoChucrut",
   "verification": "https://youtu.be/SQjF7PZ8mLs",
   "showcase": "EMPTY",
+  "fps": "60",
+  "method": "Alternating",
   "records": [],
   "tags": [
     "Wave",
