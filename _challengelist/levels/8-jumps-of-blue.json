@@ -5,7 +5,7 @@
     "creators": ["Herobrain"],
     "verifier": "MacacoChucrut",
     "verification": "https://youtu.be/A4YXNnhRCOU",
-    "percentToQualify": "100",
+    "fps": "60",
     "records": [
         {
             "user": "lolpanda",
