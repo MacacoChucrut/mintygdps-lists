@@ -46,7 +46,7 @@ export default {
                         <li>Your record must show the stats on the "Level Complete!" and stats endscreen (attempts, orbs, etc).</li>
                         <li>You may not use any skips that make any section of the level significantly easier.</li>
                         <li>A maximum of 2 keybinds are allowed per player.</li>
-                        <li>If a level specifies a Method and/or FPS, you must follow those parameters. If left blank, any method or FPS setup is allowed. A list of all methods can be found <a href="https://docs.google.com/document/d/1PMr1f_CiVhmBbt4OWfdwy_V5_n1AS4zIqzdhFm1VdBg/edit?usp=sharing">here.</a></li>
+                        <li>If a level specifies a Method and/or FPS, you must follow those parameters. If left blank, any method or FPS setup is allowed. A list of all methods can be found <a href="https://docs.google.com/document/d/1PMr1f_CiVhmBbt4OWfdwy_V5_n1AS4zIqzdhFm1VdBg/edit?usp=sharing" target="_blank">here.</a></li>
                         <li>Changing your FPS mid-attempt is not allowed.</li>
                     
                     <h2>DEMONLIST RULES</h2>
