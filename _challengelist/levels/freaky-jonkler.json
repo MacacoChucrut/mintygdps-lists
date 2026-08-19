@@ -4,7 +4,7 @@
     "creators": ["majin"],
     "verifier": "MacacoChucrut",
     "verification": "https://youtu.be/yWjVPMYIdpo",
-    "percentToQualify": "100",
+    "method": "Alternating",
     "records": [
     ],
     "tags": ["Wave", "Fast-Paced", "High CPS"]
