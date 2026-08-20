@@ -4,19 +4,14 @@
     "creators": ["Gemstone"],
     "verifier": "Gemstone",
     "verification": "#",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "MacacoChucrut",
-            "link": "https://youtu.be/Gzs5zj141iI",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/Gzs5zj141iI"
         },
         {
             "user": "lolpanda",
-            "link": "https://youtu.be/A52KXEdD6Ys",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/A52KXEdD6Ys"
         }
     ],
     "tags": ["Memory", "2P", "Slow-Paced"]
