@@ -3,32 +3,23 @@
     "name": "Razlboy Challenge (Gemstone)",
     "creators": ["Gemstone"],
     "verifier": "Gemstone",
-    "verification": "#",
-    "percentToQualify": "100",
+    "verification": "",
     "records": [
         {
             "user": "Herobrain",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "Quantium",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "link": "#"
         },
         {
             "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "lolpanda",
-            "link": "https://youtu.be/OF0d3GZIqAU",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/OF0d3GZIqAU"
         }
     ],
     "tags": ["Cube", "Timings", "Slow-Paced"]
