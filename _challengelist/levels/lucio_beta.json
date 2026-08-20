@@ -4,25 +4,18 @@
     "creators": ["ZephyrGMD"],
     "verifier": "ZephyrGMD",
     "verification": "https://youtu.be/jB24zT20coE",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "ImNotPkpi",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "link": "#"
         },
         {
             "user": "Herobrain",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         }
     ],
     "tags": ["Learny", "Gimmicky"]
