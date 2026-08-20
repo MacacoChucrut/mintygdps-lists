@@ -5,7 +5,7 @@
     "creators": ["majin"],
     "verifier": "MacacoChucrut",
     "verification": "https://youtu.be/WvhX8HSofww?list=PLImwSUnAr3kcHCqfcy4zQPlPN7s3jqcCU",
-    "percentToQualify": "100",
+    "fps": "65.6",
     "records": [
     ],
     "tags": ["Cube", "Timings", "Slow-Paced"]
