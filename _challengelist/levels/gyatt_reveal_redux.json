@@ -4,31 +4,23 @@
     "creators": ["Gemstone"],
     "verifier": "Gemstone",
     "verification": "#",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "Virek",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "Herobrain",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
-      "user": "lolpanda",
-      "link": "",
-      "percent": 100
-    }
+            "user": "lolpanda",
+            "link": ""
+        }
     ],
     "tags": ["Wave"]
 }
