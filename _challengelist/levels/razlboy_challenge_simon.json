@@ -1,0 +1,34 @@
+{
+    "id": 1389,
+    "name": "razlboy challenge (Simon)",
+    "creators": ["Simon"],
+    "verifier": "Simon",
+    "verification": "#",
+    "records": [
+        {
+            "user": "Razlboy",
+            "link": "#"
+        },
+        {
+            "user": "MacacoChucrut",
+            "link": "#"
+        },
+        {
+            "user": "Virek",
+            "link": "#"
+        },
+        {
+            "user": "Herobrain",
+            "link": "#"
+        },
+        {
+            "user": "ImNotPkpi",
+            "link": "#"
+        },
+        {
+            "user": "lolpanda",
+            "link": ""
+        }
+    ],
+    "tags": ["Slow-Paced"]
+}
