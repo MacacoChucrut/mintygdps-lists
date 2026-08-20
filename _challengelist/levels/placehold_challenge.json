@@ -4,31 +4,22 @@
     "creators": ["Gonci"],
     "verifier": "Gonci",
     "verification": "https://youtu.be/8JY-61ucwO0",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "ImNotPkpi",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "link": "#"
         },
         {
             "user": "Herobrain",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "lolpanda",
-            "link": "https://youtu.be/xRAJcEkLFgA",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/xRAJcEkLFgA"
         }
     ],
     "tags": ["Robot", "Timings", "Slow-Paced"]
