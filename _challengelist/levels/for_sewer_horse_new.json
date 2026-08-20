@@ -4,13 +4,10 @@
     "creators": ["pancakepuzzle"],
     "verifier": "MacacoChucrut",
     "verification": "https://youtu.be/Zl7ofs8pwjg",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "lolpanda",
-            "link": "https://youtu.be/eV5HMoaGZMQ",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/eV5HMoaGZMQ"
         }
     ],
     "tags": ["Timings", "Learny", "Formerly Rated"]
