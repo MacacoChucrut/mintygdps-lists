@@ -4,25 +4,18 @@
     "creators": ["yeeee"],
     "verifier": "Dact",
     "verification": "#",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "Herobrain",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "lolpanda",
-            "link": "https://youtu.be/9fd2GVJaJtw",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/9fd2GVJaJtw"
         }
     ],
     "tags": ["Wave", "Slow-Paced"]
