@@ -4,31 +4,22 @@
     "creators": ["Gemstone"],
     "verifier": "Gemstone",
     "verification": "#",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "Herobrain",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "Emerald",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "lolpanda",
-            "link": "https://youtu.be/0xyxZTMcXjQ",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/0xyxZTMcXjQ"
         }
     ],
     "tags": ["Cube", "Timings", "Slow-Paced"]
