@@ -4,25 +4,18 @@
     "creators": ["Gemstone", "Emerald"],
     "verifier": "Emerald",
     "verification": "#",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "Gemstone",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "lolpanda",
-            "link": "https://youtu.be/-qLUNC7vA5Y",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/-qLUNC7vA5Y"
         }
     ],
     "tags": ["Wave", "Learny", "Fast-Paced"]
