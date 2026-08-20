@@ -1,41 +1,29 @@
 {
     "id": 2369,
     "name": "Stivan123s Demise",
-    "author": "Mop",
     "creators": ["Mop"],
     "verifier": "Mop",
     "verification": "https://youtu.be/86hvmfoZtJ4",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "GeometryDash",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "link": "#"
         },
         {
             "user": "ImNotPkpi",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "link": "#"
         },
         {
             "user": "Herobrain",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "lolpanda",
-            "link": "https://youtu.be/O-AyryaQ7xQ",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/O-AyryaQ7xQ"
         }
     ],
     "tags": ["Cube", "Timings"]
