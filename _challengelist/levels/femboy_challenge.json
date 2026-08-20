@@ -4,19 +4,14 @@
     "creators": ["ari"],
     "verifier": "ari",
     "verification": "https://youtu.be/F1ViugxqNuI",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "MacacoChucrut",
-            "link": "https://youtu.be/K5cnB0_ABvc?t=11",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/K5cnB0_ABvc?t=11"
         },
         {
             "user": "lolpanda",
-            "link": "https://youtu.be/xO26scumFSA",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/xO26scumFSA"
         }
     ],
     "tags": ["Wave", "Chokepoints", "High CPS"]
