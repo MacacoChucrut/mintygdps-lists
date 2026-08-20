@@ -4,19 +4,14 @@
     "creators": ["Herobrain"],
     "verifier": "Herobrain",
     "verification": "https://youtu.be/4PfuUOSTXrM",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "MacacoChucrut",
-            "link": "https://youtu.be/hunOfZwkGMA",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/hunOfZwkGMA"
         },
         {
             "user": "lolpanda",
-            "link": "https://youtu.be/ZUplxkAMBmI",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/ZUplxkAMBmI"
         }
     ],
     "tags": ["Timings"]
