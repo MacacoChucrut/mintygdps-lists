@@ -1,23 +1,17 @@
 {
     "id": 532,
     "name": "INSOMNIA CHALLENGE",
-    "author": "RightBlock",
     "creators": ["WrongBlock"],
     "verifier": "WrongBlock",
     "verification": "#",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "Herobrain",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         }
     ],
     "tags": ["Wave", "Slow-Paced"]
