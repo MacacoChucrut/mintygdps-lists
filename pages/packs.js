@@ -41,23 +41,7 @@ export default {
                     <h1>
                         {{ pack.name }}
                     </h1>
-
-                    <ul class="stats" v-if="pack.reward > 0">
-                        <li>
-                            <div class="type-title-sm">Points when completed</div>
-                            <p>{{ pack.reward }}</p>
-                        </li>
-                    </ul>
-
-                    <div
-                        class="pack-reward warning"
-                        v-if="pack.reward <= 0"
-                    >
-                        {{ pack.warning }}
-                    </div>
-
-                    <h2>Levels</h2>
-
+                    
                     <div class="pack-levels">
                         <ul>
                             <li v-for="level in pack.levelObjects">
@@ -83,6 +67,21 @@ export default {
                             </li>
                         </ul>
                     </div>
+
+                    <ul class="stats" v-if="pack.reward > 0">
+                        <li>
+                            <div class="type-title-sm">Points when completed</div>
+                            <p>{{ pack.reward }}</p>
+                        </li>
+                    </ul>
+
+                    <div
+                        class="pack-reward warning"
+                        v-if="pack.reward <= 0"
+                    >
+                        {{ pack.warning }}
+                    </div>
+                    
                 </div>
             </div>
         </main>
