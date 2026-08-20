@@ -1,29 +1,22 @@
 {
     "id": 2777,
     "name": "Ball but hard",
-    "author": "Tiger8",
     "creators": ["Tiger8"],
     "verifier": "Tiger8",
     "verification": "#",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "Herobrain",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "link": "#"
         },
-{
-  "user": "lolpanda",
-  "link": "",
-  "percent": 100
-} 
+        {
+            "user": "lolpanda",
+            "link": ""
+        } 
     ],
     "tags": ["Ball", "Timings"]
 }
