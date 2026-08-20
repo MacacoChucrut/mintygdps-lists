@@ -4,32 +4,23 @@
     "creators": ["Mop"],
     "verifier": "Mop",
     "verification": "https://youtu.be/-iteqB2PB4Y",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "Herobrain",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "link": "#"
         },
         {
             "user": "ImNotPkpi",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "link": "#"
         },
         {
-  "user": "lolpanda",
-  "link": "",
-  "percent": 100,
-  "mobile": false
-}
+            "user": "lolpanda",
+            "link": ""
+        }
     ],
     "tags": ["Wave"]
 }
