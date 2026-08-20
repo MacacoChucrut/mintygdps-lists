@@ -4,25 +4,18 @@
     "creators": ["Virek"],
     "verifier": "Virek",
     "verification": "#",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "Herobrain",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "lolpanda",
-            "link": "https://youtu.be/IetTygKWb8A?si=X78jhg7fK75wXF5_",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/IetTygKWb8A?si=X78jhg7fK75wXF5_"
         }
     ],
     "tags": ["Wave", "Chokepoints", "High CPS", "Slow-Paced"]
