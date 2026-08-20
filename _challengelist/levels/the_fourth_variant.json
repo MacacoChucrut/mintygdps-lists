@@ -1,7 +1,6 @@
 {
     "id": 295,
     "name": "The Fourth Variant",
-    "author": "MacacoChucrut",
     "creators": ["MacacoChucrut"],
     "verifier": "MacacoChucrut",
     "verification": "https://youtu.be/rO1i_FvY0Jw",
@@ -9,9 +8,7 @@
     "records": [
         {
             "user": "lolpanda",
-            "link": "https://youtu.be/JUO7gp6isks",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/JUO7gp6isks"
         }
     ],
     "tags": ["Cube", "Timings", "Slow-Paced", "Former Top 1"]
