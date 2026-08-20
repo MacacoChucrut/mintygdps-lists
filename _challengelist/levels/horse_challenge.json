@@ -4,13 +4,10 @@
     "creators": ["yeeee"],
     "verifier": "lolpanda",
     "verification": "https://youtu.be/zCrJIv-PRbg",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "MacacoChucrut",
-            "link": "https://youtu.be/TH2laTboOB8?feature=shared",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/TH2laTboOB8?feature=shared"
         }
     ],
     "tags": ["Wave", "Chokepoints"]
