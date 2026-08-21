@@ -9,5 +9,8 @@
     "top_1_pack",
     "wave_beginner_pack",
     "wave_novice_pack",
-    "wave_seasoned_pack"
+    "wave_intermediate_pack",
+    "wave_seasoned_pack",
+    "wave_expert_pack",
+    "wave_master_pack"
 ]
