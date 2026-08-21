@@ -1,29 +1,21 @@
 {
     "id": 3241,
     "name": "DaaaaAAaaAAark",
-    "author": "ImNotPkpi",
     "creators": ["ImNotPkpi"],
     "verifier": "ImNotPkpi",
     "verification": "https://youtu.be/VL9rjEoTe7k?si=lcNVoa9_9pkQBFgU",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "Herobrain",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "lolpanda",
-            "link": "https://youtu.be/nbuezJguGpE",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/nbuezJguGpE"
         }
     ],
     "tags": ["Wave", "High CPS", "Slow-Paced"]
