@@ -9,21 +9,17 @@
     "records": [
         {
             "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100
+            "link": "#"
         },
         {
             "user": "Herobrain",
-            "link": "https://www.twitch.tv/herobrain100_/clip/SecretiveBitterTroutNotLikeThis-0q3UZthIhzkfM_R1",
-            "percent": 100,
-            "mobile": false
+            "link": "https://www.twitch.tv/herobrain100_/clip/SecretiveBitterTroutNotLikeThis-0q3UZthIhzkfM_R1"
         }
     ],
     "tags": [
         "Overall",
         "Chokepoints",
         "Medium",
-        "what the fuck is this",
-        "Former Top 1"
+        "what the fuck is this"
     ]
 }
