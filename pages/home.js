@@ -50,14 +50,14 @@ export default {
                         <li>Changing your FPS mid-attempt is not allowed.</li>
                     
                     <h2>DEMONLIST RULES</h2>
-                        <li>Video proof is required for <strong>Top 50 Demons.</strong></li>
+                        <li>Video proof is required for <strong>Top 60 Demons.</strong></li>
                         <li>If your record is in the Top 3, you must have raw footage with isolated clicks, uploaded in a downloadable format (e.g. Google Drive) and submitted along with your public video.</li>
                     
                     <h2>PEMONLIST RULES</h2>
                         <li>Video proof is required for the <strong>Top 1 Pemon.</strong></li>
 
                     <h2>CHALLENGE LIST RULES</h2>
-                        <li>Video proof is required for <strong>Top 40 Challenges.</strong></li>
+                        <li>Video proof is required for <strong>Top 50 Challenges.</strong></li>
                         <li>Levels can last up to 29 seconds.</li>
                         <li>Random Triggers are allowed as long as all outcomes are of equal difficulty. They may not affect the gameplay or visual difficulty.</li>
                         <li>Copying levels outside the GDPS is allowed as long as significant modifications are made to the gameplay or decoration. Direct copies or slightly edited versions are not allowed.</li>
