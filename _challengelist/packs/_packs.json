@@ -8,9 +8,13 @@
     "piss_pack",
     "top_1_pack",
     "wave_beginner_pack",
+    "wave_apprentice_pack",
     "wave_novice_pack",
     "wave_intermediate_pack",
     "wave_seasoned_pack",
+    "wave_advanced_pack",
     "wave_expert_pack",
-    "wave_master_pack"
+    "wave_master_pack",
+    "wave_grandmaster_pack",
+    "wave_god_pack"
 ]
