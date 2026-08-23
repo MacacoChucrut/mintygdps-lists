@@ -1,65 +1,50 @@
 {
     "id": 3381,
     "name": "Zobros Level ONE",
-    "author": "Dino",
     "creators": ["Dino"],
     "verifier": "Dino",
     "verification": "#",
-    "percentToQualify": "100",
     "records": [
         {
             "user": "Herobrain",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "pancakepuzzle",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": ""
         },
         {
             "user": "ImNotPkpi",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "link": "#"
         },
         {
             "user": "Virek",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "goofyman",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
             "user": "Mop",
-            "link": "https://youtu.be/d4KOx3y6K1U",
-            "percent": 100,
-            "mobile": true
+            "link": "https://youtu.be/d4KOx3y6K1U"
         },
         {
             "user": "yeeee",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "link": "#"
         },
         {
-      "user": "KindaExpert",
-      "link": "",
-      "percent": 100
-    }
+            "user": "KindaExpert",
+            "link": ""
+        },
+        {
+            "user": "Zceliojunior",
+            "link": ""
+        }
     ],
     "tags": ["Robot", "Cube", "Ship", "Timings"]
 }
