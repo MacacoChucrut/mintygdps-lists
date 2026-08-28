@@ -9,26 +9,24 @@
     "records": [
         {
             "user": "MacacoChucrut",
-            "link": "https://youtu.be/udSWx236Ezw",
-            "percent": 100
+            "link": "https://youtu.be/udSWx236Ezw"
         },
         {
             "user": "justabook",
-            "link": "",
-            "percent": 100
+            "link": ""
         },
         {
             "user": "Herobrain",
-            "link": "https://www.twitch.tv/herobrain100_/clip/FrigidJoyousLouseCopyThis-4URJPaW5aH_S-Shw",
-            "percent": 100,
-            "mobile": false
+            "link": "https://www.twitch.tv/herobrain100_/clip/FrigidJoyousLouseCopyThis-4URJPaW5aH_S-Shw"
         },
         {
             "user": "goofyman",
-            "link": "https://youtu.be/DgJ0V6kDZl8",
-            "percent": 100,
-            "mobile": false
-        }
+            "link": "https://youtu.be/DgJ0V6kDZl8"
+        },
+        {
+      "user": "Hcmaxi",
+      "link": "https://medal.tv/games/geometry-dash/clips/nmMHbcDMGrFZVwzzm?invite=cr-MSx6WHYsNDcwNzU5ODEx"
+    }
     ],
     "tags": [
         "Overall",
