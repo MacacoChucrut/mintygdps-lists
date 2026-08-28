@@ -87,12 +87,10 @@ function generateLevelJSON(){
 function generateRecord(){
   const user = document.getElementById("recUser").value.trim();
   const link = document.getElementById("recLink").value.trim();
-  const percent = 100;
 
   const json = {
     user,
-    link,
-    percent
+    link
   };
 
   document.getElementById("recordOutput").value = JSON.stringify(json, null, 2);
