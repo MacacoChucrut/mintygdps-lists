@@ -9,10 +9,13 @@
   "showcase": "",
   "records": [
     {
-  "user": "MacacoChucrut",
-  "link": "",
-  "percent": 100
-}
+      "user": "MacacoChucrut",
+      "link": ""
+    },
+    {
+      "user": "Herobrain",
+      "link": ""
+    }
   ],
   "tags": [
     "Timings", "Wave", "Learny", "Chokepoints", "Medium"
