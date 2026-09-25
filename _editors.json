@@ -1,15 +1,7 @@
 [
     {
-        "name": "MacacoChucrut",
-        "link": "https://www.youtube.com/@thesupersigma727"
-    },
-    {
         "name": "Hcmaxi",
         "link": "https://www.youtube.com/@HMaxiC"
-    },
-    {
-        "name": "dactisstupid",
-        "link": "https://www.youtube.com/@iamdact"
     },
     {
         "name": "Herobrain",
@@ -23,4 +15,8 @@
         "name": "BoykisserShadow",
         "link": "https://www.youtube.com/@thursdayyyh"
     }
+    {
+        "name": "MacacoChucrut",
+        "link": "https://www.youtube.com/@thesupersigma727"
+    },
 ]
