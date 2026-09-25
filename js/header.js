@@ -61,6 +61,10 @@ export default {
                         <router-link to="/unratedlist">
                             UNRATED LIST
                         </router-link>
+
+                        <router-link to="/impossiblelist">
+                            IMPOSSIBLE LIST
+                        </router-link>
                     </div>
                 </div>
 
