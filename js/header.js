@@ -22,6 +22,9 @@ export default {
             case "unratedlist":
                 return "UNRATED LIST";
 
+            case "impossiblelist":
+                return "IMPOSSIBLE LIST";
+
             default:
                 return "BRO WHAT ARE YOU DOING";
         }
