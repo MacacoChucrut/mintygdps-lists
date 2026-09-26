@@ -43,7 +43,7 @@ export default {
                 <p class="type-body">
                     <span>{{ verifier }}</span>
                 </p>
-                <div class="type-title-sm">World Record</div>
+                <div v-if="worldrecord" class="type-title-sm">World Record</div>
                 <p class="type-body">
                     <span>{{ worldrecord }}</span>
                 </p>
