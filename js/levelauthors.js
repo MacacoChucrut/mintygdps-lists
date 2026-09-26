@@ -8,19 +8,13 @@ export default {
             type: String,
             required: true,
         },
-        wr: {
+        worldrecord: {
             type: String,
-            required: true,
+            required: false,
         }
     },
     template: `
         <div class="level-authors">
-            <template v-if="selfVerified">
-                <div class="type-title-sm">Creator & Verifier</div>
-                <p class="type-body">
-                    <span>{{ author }}</span>
-                </p>
-            </template>
             <template v-else-if="creators.length === 0">
                 <div class="type-title-sm">Creator</div>
                 <p class="type-body">
@@ -29,6 +23,10 @@ export default {
                 <div class="type-title-sm">Verifier</div>
                 <p class="type-body">
                     <span>{{ verifier }}</span>
+                </p>
+                <div class="type-title-sm">World Record</div>
+                <p class="type-body">
+                    <span>{{ worldrecord }}</span>
                 </p>
             </template>
             <template v-else>
@@ -42,6 +40,10 @@ export default {
                 <div class="type-title-sm">Verifier</div>
                 <p class="type-body">
                     <span>{{ verifier }}</span>
+                </p>
+                <div class="type-title-sm">World Record</div>
+                <p class="type-body">
+                    <span>{{ worldrecord }}</span>
                 </p>
             </template>
         </div>
