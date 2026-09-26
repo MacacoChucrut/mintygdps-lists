@@ -6,7 +6,7 @@ export default {
         },
         verifier: {
             type: String,
-            required: true,
+            required: false,
         },
         worldrecord: {
             type: String,
