@@ -10,7 +10,7 @@ export default {
         },
         wr: {
             type: String,
-            required: false,
+            required: true,
         }
     },
     template: `
