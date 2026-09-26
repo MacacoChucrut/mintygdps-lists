@@ -10,7 +10,7 @@ export default {
         },
         worldrecord: {
             type: String,
-            required: false,
+            required: true,
         }
     },
     template: `
