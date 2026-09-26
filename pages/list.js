@@ -90,7 +90,7 @@ export default {
                     <LevelAuthors 
                         :creators="level.creators" 
                         :verifier="level.verifier"
-                        :wr="level.wr">
+                        :worldrecord="level.worldrecord">
                     </LevelAuthors>
 
                     <div style="display:flex;">
