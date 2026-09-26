@@ -7,6 +7,10 @@ export default {
         verifier: {
             type: String,
             required: true,
+        },
+        worldrecord: {
+            type: String,
+            required: false,
         }
     },
     template: `
