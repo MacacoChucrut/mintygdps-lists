@@ -8,6 +8,10 @@ export default {
             type: String,
             required: true,
         },
+        wr: {
+            type: String,
+            required: false,
+        }
     },
     template: `
         <div class="level-authors">
