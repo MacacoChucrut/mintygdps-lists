@@ -5,6 +5,7 @@
     "MacacoChucrut"
   ],
   "verifier": "MacacoChucrut",
+  "method": "Alternating",
   "verification": "https://www.youtube.com/watch?v=c5pYzBkffgs",
   "showcase": "",
   "records": [],
