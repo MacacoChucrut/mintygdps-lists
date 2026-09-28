@@ -1,71 +1,171 @@
 .page-home {
-    grid-template-columns: minmax(auto, 1fr) 2fr;
-}
-
-.page-home h2 {
-    font-size: 2.5rem;
+    grid-template-columns: minmax(320px, 1fr) 2fr;
 }
 
 .home-main {
-    padding: 3rem 0 3rem 4rem;
-    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+
+    min-height: 100%;
+    box-sizing: border-box;
+
+    padding: 4rem 3.5rem;
+
+    text-align: left;
+}
+
+
+/* ----------------------------------------------------------------------------------------------------------------------------------------- TITLE */
+
+.home-intro h1 {
     text-align: center;
+    margin: 0 0 1rem;
+    color: var(--color-primary);
+    filter: brightness(1.2);
 }
 
-.home-main h1 {
-    margin-bottom: 4rem;
-}
-
-.home-main h2 {
-    margin: 3rem 0;
-}
-
-.credits {
-    opacity: .5;
-}
-
-.credits a:hover {
-    text-decoration: underline;
-}
-
-.page-home hr {
-    margin: 2rem auto;
-    width: 90%;
-}
-
-.requirements {
-    padding-bottom: 4rem;
-    overflow-y: auto;
-}
-
-.requirements h2 {
-    text-align: center;
+.home-divider {
+    width: 100%;
+    height: 1px;
     margin: 4rem 0;
+    background: rgba(255, 255, 255, .2);
 }
 
-.requirements li {
-    margin: 24px auto;
-    font-size: 1rem;
-    padding-left: 1rem;
-    width: 90%;
+/* ------------------------------------------------------------------------------------------------------------------------------------- EDITORS */
+
+.section-heading {
+    margin-bottom: 1rem;
 }
 
-.requirements a {
-    text-decoration: underline;
+.section-heading h2 {
+    font-size: 24px;
+    text-transform: uppercase;
 }
 
 .editors {
-    margin: 0 auto;
-    width: 70%;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border-top: 1px solid rgba(255, 255, 255, .08);
 }
 
 .editor-card {
-    font-size: 1.1rem;
-    margin: 1rem 0;
     display: flex;
+    padding: 1rem 0 1rem 1rem;
+    border-bottom: 1px solid rgba(255, 255, 255, .08);
+    color: rgba(255, 255, 255, .7);
 }
 
 .editor-card:hover {
-    transition: .1s;
+    transition: .2s;
+    background: rgba(255, 255, 255, .1);
+    color: white;
+}
+
+.editor-card:not(:hover) {
+    transition: .2s;
+}
+
+.editor-name {
+    transition: color .2s ease;
+}
+
+.editor-card:hover .editor-name {
+    color: var(--color-on-background);
+    text-decoration: underline;
+}
+
+/* --------------------------------------------------------------------------------------------------------------------------------- FOOTER */
+
+.home-footer {
+    margin-top: auto;
+    color: rgba(255, 255, 255, .4);
+}
+
+.home-footer a {
+    color: rgba(255, 255, 255, .6);
+    text-decoration: none;
+    transition: color .15s ease;
+}
+
+.home-footer a:hover {
+    text-decoration: underline;
+}
+
+/* -------------------------------------------------------------------------------------------------------------------- RULES TITLE */
+
+.requirements {
+    padding: 4rem 4rem 5rem 2rem;
+    overflow-y: auto;
+}
+
+.rules-title {
+    margin: 0 0 2rem;
+}
+
+.rules-title h2 {
+    font-size: 2.5rem;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------------ SELECTOR */
+
+.rules-selector {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid rgba(255, 255, 255, .2);
+    border-radius: 6px;
+}
+
+.rule-button {
+    white-space: nowrap;
+    flex: auto;
+    padding: 1rem 0;
+    border: none;
+    background: transparent;
+    font-family: inherit;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+
+.rule-button:hover {
+    transition: .15s;
+    background: rgba(255, 255, 255, .1);
+}
+
+.rule-button:not(:hover) {
+    transition: .2s;
+}
+
+.rule-button.active {
+    background: var(--color-primary);
+}
+
+/* --------------------------------------------------------------------------------------------------------------------------- PANEL */
+
+.rules-panel {
+    padding: 2rem 0;
+}
+
+.rules-panel h3 {
+    margin: 0 0 2rem;
+    font-size: 2rem;
+}
+
+.rules-panel li {
+    position: relative;
+    margin: 1.5rem 0;
+    padding: 0 0 0 1.5rem;
+    color: rgba(255, 255, 255, .8);
+}
+
+.rules-panel li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: var(--color-primary);
+}
+
+.rules-panel a {
     text-decoration: underline;
 }

@@ -35,11 +35,11 @@
 }
 
 .page-list .list .level button:hover {
-    outline: 2px solid var(--outline-color);
+    outline: 1px solid var(--outline-color);
 }
 
 .page-list .list .level.active button {
-    outline: 2px solid var(--outline-color);
+    outline: 1px solid var(--outline-color);
 }
 
 .page-list .level-container .level {
@@ -60,8 +60,8 @@
 .page-list .level-container .level .video {
     margin: 0 auto;
     aspect-ratio: 16/9;
-    border-radius: 1rem;
-    width: 70%;
+    border-radius: 12px;
+    width: 80%;
 }
 
 .page-list .level-container .level .stats {
@@ -87,8 +87,7 @@
 }
 
 .page-list .level-container .level .records .percent,
-.page-list .level-container .level .records .user,
-.page-list .level-container .level .records .hz {
+.page-list .level-container .level .records .user {
     padding-block: 1rem;
 }
 
@@ -96,19 +95,17 @@
     width: 100%;
 }
 
-.page-list .level-container .level .records .percent,
-.page-list .level-container .level .records .hz {
+.page-list .level-container .level .records .percent {
     text-align: end;
 }
 
 .tag {
     font-family: "Lexend Deca", sans-serif;
-    display:block;
-    border-radius: 14px;
+    border-radius: 12px;
     color: var(--color-on-background);
-    border: 3px solid var(--color-primary);
-    padding: 7px;
-    margin-right: 7px;
+    border: 2px solid var(--color-primary);
+    padding: 8px;
+    margin-right: 8px;
     cursor: default;
 }
 
@@ -144,19 +141,8 @@
     padding: 1rem;
     border-radius: 1rem;
     border: none;
-    outline: solid 2px var(--color-primary);
+    outline: solid 1px rgba(255, 255, 255, .3);
     background: none;
     box-sizing: border-box;
     margin-bottom: 2rem;
-}
-
-.tab {
-    font-family: 'Lexend Deca', sans-serif;
-    font-weight: 500;
-}
-
-.tab.type-label-lg {
-    font-family: 'Lexend Deca', sans-serif;
-    font-weight: 700;
-    letter-spacing: 0.02em;
 }
