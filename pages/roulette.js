@@ -46,7 +46,7 @@ export default {
                         <!-- Completed Levels -->
                         <div class="level" v-for="(level, i) in levels.slice(0, progression.length)">
                             <a :href="level.video" class="video">
-                                <img :src="getThumbnailFromId(getYoutubeIdFromUrl(level.video))" alt="">
+                                <img :src="getThumbnailFromId(getYoutubeIdFromUrl(level.video))">
                             </a>
                             <div class="meta">
                                 <p>#{{ level.rank }}</p>
@@ -56,8 +56,8 @@ export default {
                         </div>
                         <!-- Current Level -->
                         <div class="level" v-if="!hasCompleted">
-                            <a :href="currentLevel.video" target="_blank" class="video">
-                                <img :src="getThumbnailFromId(getYoutubeIdFromUrl(currentLevel.video))" alt="">
+                            <a :href="currentLevel.video" target="_blank" class="video" >
+                                <img :src="getThumbnailFromId(getYoutubeIdFromUrl(currentLevel.video))">
                             </a>
                             <div class="meta">
                                 <p>#{{ currentLevel.rank }}</p>
@@ -81,7 +81,7 @@ export default {
                         <template v-if="givenUp && showRemaining">
                             <div class="level" v-for="(level, i) in levels.slice(progression.length + 1, levels.length - currentPercentage + progression.length)">
                                 <a :href="level.video" target="_blank" class="video">
-                                    <img :src="getThumbnailFromId(getYoutubeIdFromUrl(level.video))" alt="">
+                                    <img :src="getThumbnailFromId(getYoutubeIdFromUrl(level.video))">
                                 </a>
                                 <div class="meta">
                                     <p>#{{ level.rank }}</p>

@@ -2,6 +2,16 @@ import { fetchLeaderboard, fetchPacks, fetchList } from '../js/content.js';
 import { localize } from '../js/utils.js';
 import Spinner from '../js/spinner.js';
 
+function getRankColor(rank) {
+    if (rank === 1) return '#fd0';
+    if (rank === 2) return '#bbb';
+    if (rank === 3) return '#c73';
+    if (rank === 4) return '#5cc';
+    if (rank === 5) return '#97e';
+    if (rank > 200) return 'var(--color-legacy)';
+    return null;
+}
+
 export default {
     components: { Spinner },
     props: {
@@ -32,14 +42,28 @@ export default {
                     <table class="board">
                         <tr v-for="(ientry, i) in leaderboard" :key="i">
                             <td class="rank">
-                                <p class="type-label-lg" :id="'rank-' + i">#{{ i + 1 }}</p>
+                                <p class="type-label-lg" :id="'rank-' + i">
+                                    #{{ i + 1 }}
+                                </p>
                             </td>
+
                             <td class="total">
-                                <p class="type-label-lg" :id="'total-' + i">{{ localize(ientry.total) }}</p>
+                                <p class="type-label-lg" :id="'total-' + i">
+                                    {{ localize(ientry.total) }}
+                                </p>
                             </td>
-                            <td class="user" :class="{ 'active': selected == i }">
+
+                            <td
+                                class="user"
+                                :class="{ 'active': selected == i }"
+                                :style="{
+                                    '--outline-color': getRankColor(i + 1) || 'var(--color-on-background)'
+                                }"
+                            >
                                 <button @click="selected = i">
-                                    <span class="type-label-lg" :id="'user-' + i">{{ ientry.user }}</span>
+                                    <span class="type-label-lg" :id="'user-' + i">
+                                        {{ ientry.user }}
+                                    </span>
                                 </button>
                             </td>
                         </tr>
@@ -52,7 +76,6 @@ export default {
                         <h1>#{{ selected + 1 }} {{ entry.user }}</h1>
                         <h3>{{ entry.total }}</h3>
 
-                        <!-- Packs Completed -->
                         <h2 v-if="entry.packsCompleted && entry.packsCompleted.length > 0">
                             Packs Completed ({{ entry.packsCompleted.length }})
                         </h2>
@@ -70,57 +93,71 @@ export default {
                             </tr>
                         </table>
 
-                        <!-- Verified -->
                         <h2 v-if="entry.verified.length > 0">
                             Verified ({{ entry.verified.length }})
                         </h2>
 
                         <table class="table">
                             <tr v-for="score in entry.verified" :key="score.level">
-                                <td class="rank"><p>#{{ score.rank }}</p></td>
+                                <td class="rank">
+                                    <p>#{{ score.rank }}</p>
+                                </td>
                                 <td class="level">
                                     <a class="type-label-lg" target="_blank" :href="score.link">
                                         {{ score.level }}
                                     </a>
                                 </td>
                                 <td class="score">
-                                <p v-if="score.score !== 0">+{{ localize(score.score) }}</p></td>
+                                    <p v-if="score.score !== 0">
+                                        +{{ localize(score.score) }}
+                                    </p>
+                                </td>
                             </tr>
                         </table>
 
-                        <!-- Completed -->
                         <h2 v-if="entry.completed.length > 0">
                             Completed ({{ entry.completed.length }})
                         </h2>
 
                         <table class="table">
                             <tr v-for="record in entry.completed" :key="record.level">
-                                <td class="rank"><p>#{{ record.rank }}</p></td>
+                                <td class="rank">
+                                    <p>#{{ record.rank }}</p>
+                                </td>
                                 <td class="level">
                                     <a class="type-label-lg" target="_blank" :href="record.link">
                                         {{ record.level }}
                                     </a>
                                 </td>
                                 <td class="score">
-                                <p v-if="record.score !== 0">+{{ localize(record.score) }}</p></td>
+                                    <p v-if="record.score !== 0">
+                                        +{{ localize(record.score) }}
+                                    </p>
+                                </td>
                             </tr>
                         </table>
 
-                        <!-- Uncompleted -->
                         <div class="uncompleted-title">
-                        <h2 v-if="uncompletedLevels.length > 0">
-                            Uncompleted ({{ uncompletedLevels.length }})
-                        </h2></div>
+                            <h2 v-if="uncompletedLevels.length > 0">
+                                Uncompleted ({{ uncompletedLevels.length }})
+                            </h2>
+                        </div>
 
                         <table class="table">
-                            <div class="uncompleted"><tr v-for="level in uncompletedLevels" :key="level.name">
-                                <td class="rank"><p>#{{ level.rank }}</p></td>
-                                <td class="level">
-                                    <span class="type-label-lg">{{ level.name }}</span></div>
-                                </td>
+                            <div class="uncompleted">
+                                <tr v-for="level in uncompletedLevels" :key="level.name">
+                                    <td class="rank">
+                                        <p>#{{ level.rank }}</p>
+                                    </td>
+                                    <td class="level">
+                                        <span class="type-label-lg">
+                                            {{ level.name }}
+                                        </span>
+                                    </td>
+                                </tr>
                             </div>
-                            </tr>
                         </table>
+
                     </div>
                 </div>
             </div>
@@ -139,7 +176,7 @@ export default {
                 ...this.entry.verified.map(l => l.path)
             ];
 
-            return this.allLevels.filter(lvl => 
+            return this.allLevels.filter(lvl =>
                 !completedNames.includes(lvl.path)
             );
         }
@@ -148,8 +185,23 @@ export default {
         this.loading = true;
 
         const [leaderboard, err] = await fetchLeaderboard(this.listName);
-        const excludedUsers = ["None", "-", "ribbonera", "Artimae", "KanyeWestOfficial", "Dino", "Vertix", "Verim", "ForbidBasket", "Cash", "Cashy"];
-        this.leaderboard = leaderboard.filter(player => !excludedUsers.includes(player.user));
+        const excludedUsers = [
+            "None",
+            "ribbonera",
+            "Artimae",
+            "KanyeWestOfficial",
+            "Dino",
+            "Vertix",
+            "Verim",
+            "ForbidBasket",
+            "Cash",
+            "Cashy"
+        ];
+
+        this.leaderboard = leaderboard.filter(
+            player => !excludedUsers.includes(player.user)
+        );
+
         this.err = err;
 
         try {
@@ -160,6 +212,7 @@ export default {
 
         try {
             const list = await fetchList(this.listName);
+
             if (list) {
                 this.allLevels = list
                     .map(([lvl], index) => lvl ? {
@@ -178,19 +231,18 @@ export default {
     },
     methods: {
         localize,
+        getRankColor,
 
         applyRankEffects() {
             this.$nextTick(() => {
-                const ranks = [
-                    { index: 0, color: '#FFD700' },
-                    { index: 1, color: '#C0C0C0' },
-                    { index: 2, color: '#CD7F32' },
-                ];
+                for (let i = 0; i < this.leaderboard.length; i++) {
+                    const color = getRankColor(i + 1);
 
-                for (const { index, color } of ranks) {
-                    const rank = document.querySelector(`#rank-${index}`);
-                    const user = document.querySelector(`#user-${index}`);
-                    const total = document.querySelector(`#total-${index}`);
+                    if (!color) continue;
+
+                    const rank = document.querySelector(`#rank-${i}`);
+                    const user = document.querySelector(`#user-${i}`);
+                    const total = document.querySelector(`#total-${i}`);
 
                     if (rank) rank.style.color = color;
                     if (user) user.style.color = color;
