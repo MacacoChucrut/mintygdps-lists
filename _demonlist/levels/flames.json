@@ -9,39 +9,28 @@
     "records": [
         {
             "user": "MacacoChucrut",
-            "link": "https://youtu.be/8-AYbT7W32A",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/8-AYbT7W32A"
         },
         {
             "user": "goofyman",
-            "link": "https://youtu.be/8R7_ddAahjk",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/8R7_ddAahjk"
         },
         {
             "user": "john trustworthy",
-            "link": "https://youtu.be/JaouLnw_CD0",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/JaouLnw_CD0"
         },
         {
-            "user": "Herobrain",
-            "link": "",
-            "percent": 100,
-            "mobile": false
+            "user": "Herobrain"
         },
         {
-            "user": "dact",
-            "link": "",
-            "percent": 100,
-            "mobile": false
+            "user": "dact"
         },
         {
             "user": "velocity",
-            "link": "https://medal.tv/games/geometry-dash/clips/mYgXNUWFpoOV8fmu3?invite=cr-MSxZMlosNDc1MjUyNDQ2&v=43",
-            "percent": 100,
-            "mobile": false
+            "link": "https://medal.tv/games/geometry-dash/clips/mYgXNUWFpoOV8fmu3?invite=cr-MSxZMlosNDc1MjUyNDQ2&v=43"
+        },
+        {
+            "user": "denz8ty"
         }
     ],
     "tags": [
