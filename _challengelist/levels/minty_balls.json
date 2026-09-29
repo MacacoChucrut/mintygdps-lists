@@ -4,8 +4,11 @@
     "creators": ["MacacoChucrut"],
     "verifier": "MacacoChucrut",
     "verification": "https://youtu.be/of9AP8IQ0SA",
-    "percentToQualify": "100",
     "records": [
+        {
+            "user": "majin",
+            "link": "https://medal.tv/games/geometry-dash/clips/nCNkSosduJAxSWK1Q?invite=cr-MSxBczIsNDA4MjgzNzk3"
+        }
     ],
     "tags": ["Wave", "Fast-Paced"]
 }
