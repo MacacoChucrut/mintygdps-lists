@@ -7,15 +7,14 @@
     "percentToQualify": "100",
     "records": [
         {
-            "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "MacacoChucrut"
         },
         {
-      "user": "lolpanda",
-      "link": "",
-      "percent": 100
+      "user": "lolpanda"
+    },
+        {
+      "user": "Z3pH4x",
+      "link": "https://youtu.be/Bfi1vQcTpzA"
     }
     ],
     "tags": ["Cube", "Timings", "Slow-Paced"]
