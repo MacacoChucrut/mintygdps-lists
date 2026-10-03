@@ -8,123 +8,76 @@
     "verification": "#",
     "records": [
         {
-            "user": "MacacoChucrut",
-            "link": "",
-            "percent": 100
+            "user": "MacacoChucrut"
         },
         {
-            "user": "Gonci30",
-            "link": "",
-            "percent": 100,
-            "mobile": true
+            "user": "Gonci30"
         },
         {
-            "user": "Hydra",
-            "link": "",
-            "percent": 100
+            "user": "Hydra"
         },
         {
-            "user": "drip",
-            "link": "",
-            "percent": 100,
-            "mobile": false
+            "user": "drip"
         },
         {
-            "user": "yeeee",
-            "link": "",
-            "percent": 100
+            "user": "yeeee"
         },
         {
-            "user": "Dracorex",
-            "link": "",
-            "percent": 100
+            "user": "Dracorex"
         },
         {
             "user": "teardropist",
-            "link": "https://medal.tv/games/geometry-dash/clips/kB7mVXmVE5t171fvf?invite=cr-MSxOZlYsMzY5NDIxMDc1",
-            "percent": 100,
-            "mobile": false
+            "link": "https://medal.tv/games/geometry-dash/clips/kB7mVXmVE5t171fvf?invite=cr-MSxOZlYsMzY5NDIxMDc1"
         },
         {
-            "user": "goofyman",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "goofyman"
         },
         {
-            "user": "Virek",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Virek"
         },
         {
             "user": "Mop",
-            "link": "https://youtu.be/t7QR7ZzEGaE?si=mDp9U9tIX2N5hzoe",
-            "percent": 100,
-            "mobile": true
+            "link": "https://youtu.be/t7QR7ZzEGaE?si=mDp9U9tIX2N5hzoe"
         },
         {
-            "user": "TheeNegativee",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "TheeNegativee"
         },
         {
-            "user": "Quantium",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "user": "Quantium"
         },
         {
-            "user": "Denz8ty",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Denz8ty"
         },
         {
-            "user": "Hcmaxi",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Hcmaxi"
         },
         {
-            "user": "Pingel",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Pingel"
         },
         {
             "user": "john trustworthy",
-            "link": "https://youtu.be/ETc7Q6kpkzE",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/ETc7Q6kpkzE"
         },
         {
-            "user": "dact",
-            "link": "",
-            "percent": 100,
-            "mobile": false
+            "user": "dact"
         },
         {
             "user": "ItzZen",
-            "link": "https://youtu.be/WJFtjTAkwW0?si=0AGFOoVxK_2cDmpI",
-            "percent": 100,
-            "mobile": true
+            "link": "https://youtu.be/WJFtjTAkwW0?si=0AGFOoVxK_2cDmpI"
         },
         {
-            "user": "A01",
-            "link": "",
-            "percent": 100,
-            "mobile": false
+            "user": "A01"
         },
         {
-            "user": "graymatr",
-            "link": "",
-            "percent": 100
+            "user": "graymatr"
         },
         {
       "user": "TDCam",
       "link": "https://youtu.be/4fGEO3iKxDk?si=uEmAnZ5Cp3ytXLuP"
+    }
+        {
+      "user": "RaggyP",
+      "link": "https://cdn.discordapp.com/attachments/1555652789924008046/1555652791161061436/Geometry_Dash_2026.10.02_-_20.24.41.02_-_Trim_-_Trim_1.mp4?backend=b2&ex=6ac29f90&is=6ac14e10&hm=4e8c897d01c4ebda4ac5f53d15b006f31d70577a48819290b08cb712f602e959&"
     }
     ],
     "tags": [
