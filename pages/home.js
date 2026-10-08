@@ -39,8 +39,8 @@ export default {
                     </div>
 
                     <div class="home-footer">
-                        Layout made by
-                            <a href="https://tsl.pages.dev/" target="_blank">TheShittyList (TSL)</a>
+                        Layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList (TSL)</a>
+                        Certain features inspired by <a href="https://aredl.net" target="_blank">AREDL</a>
                     </div>
                 </section>
 
