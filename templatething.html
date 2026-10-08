@@ -31,8 +31,10 @@
     <input id="levelName" placeholder="level name">
     <input id="levelCreators" placeholder="creators (comma separated)">
     <input id="levelVerifier" placeholder="verifier">
-    <input id="levelVerifLink" placeholder="verification">
-    <input id="levelShowcase" placeholder="showcase">
+    <input id="levelMethod" placeholder="method (optional)">
+    <input id="levelFps" placeholder="fps (optiona)">
+    <input id="levelVerifLink" placeholder="verification (optional)">
+    <input id="levelShowcase" placeholder="showcase (optional)">
     <input id="levelTags" placeholder="tags (comma separated)">
   </div>
 
@@ -46,7 +48,7 @@
   <h2>ADD RECORD SHIT</h2>
 
   <input id="recUser" placeholder="user">
-  <input id="recLink" placeholder="video">
+  <input id="recLink" placeholder="video (optional)">
 
   <button onclick="generateRecord()">generate</button>
 
@@ -66,6 +68,8 @@ function generateLevelJSON(){
   const name = document.getElementById("levelName").value.trim();
   const creators = document.getElementById("levelCreators").value.trim();
   const verifier = document.getElementById("levelVerifier").value.trim();
+  const method = document.getElementById("levelMethod").value.trim();
+  const fps = document.getElementById("levelFps").value.trim();
   const verif = document.getElementById("levelVerifLink").value.trim();
   const show = document.getElementById("levelShowcase").value.trim();
   const tags = document.getElementById("levelTags").value.trim();
@@ -75,6 +79,8 @@ function generateLevelJSON(){
     name,
     creators: creators.split(",").map(s => s.trim()),
     verifier,
+    method,
+    fps,
     verification: verif,
     showcase: show,
     records: [],
