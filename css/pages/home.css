@@ -74,18 +74,18 @@
 
 /* --------------------------------------------------------------------------------------------------------------------------------- FOOTER */
 
-.home-footer1, .home-footer2 {
+.home-footers {
     margin-top: auto;
     color: rgba(255, 255, 255, .4);
 }
 
-.home-footer a {
+.home-footers a {
     color: rgba(255, 255, 255, .6);
     text-decoration: none;
     transition: color .15s ease;
 }
 
-.home-footer a:hover {
+.home-footers a:hover {
     text-decoration: underline;
 }
 
