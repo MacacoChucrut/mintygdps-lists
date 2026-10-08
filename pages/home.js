@@ -38,10 +38,10 @@ export default {
                         </div>
                     </div>
 
-                    <div class="home-footer">
+                    <div class="home-footer1">
                         Layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList (TSL)</a>
                     </div>
-                    <div class="home-footer">
+                    <div class="home-footer2">
                         Certain features inspired by <a href="https://aredl.net" target="_blank">AREDL</a>
                     </div>
                 </section>
