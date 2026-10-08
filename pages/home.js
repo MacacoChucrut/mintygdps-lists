@@ -94,7 +94,6 @@ export default {
         {
             id: "general",
             name: "General Rules",
-            category: "ALL LISTS",
             rules: [
                 "<strong>You must follow these rules across all lists.</strong>",
                 "Verifications must be uploaded to YouTube or Medal.",
@@ -113,7 +112,6 @@ export default {
         {
             id: "demonlist",
             name: "Demonlist",
-            category: "DEMONLIST",
             rules: [
                 "Video proof is required for <strong>Top 60 Demons.</strong>",
                 "If your record is in the Top 3, you must have raw footage with isolated clicks, uploaded in a downloadable format (e.g. Google Drive) and submitted along with your public video."
@@ -123,7 +121,6 @@ export default {
         {
             id: "pemonlist",
             name: "Pemonlist",
-            category: "PEMONLIST",
             rules: [
                 "Video proof is required for the <strong>Top 1 Pemon.</strong>"
             ]
@@ -132,13 +129,14 @@ export default {
         {
             id: "challenge",
             name: "Challenge List",
-            category: "CHALLENGE LIST",
             rules: [
                 "Video proof is required for <strong>Top 50 Challenges.</strong>",
                 "Levels can last up to 29 seconds.",
                 "Random Triggers are allowed as long as all outcomes are of equal difficulty. They may not affect the gameplay or visual difficulty.",
+                
                 "Copying levels is allowed as long as significant modifications are made to the gameplay or decoration. Direct copies or slightly edited versions are not allowed.",
-                "Reuploaded levels are judged more strictly to prevent low quality or joke levels from filling the list.",
+                "Levels copying parts from another level will be judged more strictly to prevent low effort levels from filling the list.",
+                "Reuploaded levels are judged more strictly to prevent low effort levels.",
                 "Reuploaded levels cannot be Top #1 difficulty.",
             ]
         },
@@ -146,14 +144,15 @@ export default {
         {
             id: "unrated",
             name: "Unrated List",
-            category: "UNRATED LIST",
             rules: [
                 "Video proof is required for <strong>Top 5 levels.</strong>",
                 "Levels must be at least 30 seconds long.",
                 "Levels must be at least Easy Demon difficulty (GDPS standards).",
                 "Random Triggers are allowed as long as all outcomes are of equal difficulty. They may not affect the gameplay or visual difficulty.",
+                
                 "Copying levels is allowed as long as significant modifications are made to the gameplay or decoration. Direct copies or slightly edited versions are not allowed.",
-                "Reuploaded levels are judged more strictly to prevent low quality or joke levels from filling the list.",
+                "Levels copying parts from another level will be judged more strictly to prevent low effort levels from filling the list.",
+                "Reuploaded levels are judged more strictly to prevent low effort levels.",
                 "Reuploaded levels cannot be Top #1 difficulty.",
             ]
         },
@@ -161,7 +160,6 @@ export default {
         {
             id: "impossible",
             name: "Impossible List",
-            category: "IMPOSSIBLE LIST",
             rules: [
                 "Levels must be at least 30 seconds long.",
                 "Levels must be at least Extreme Demon difficulty. (GDPS standards.)",
