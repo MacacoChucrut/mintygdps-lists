@@ -7,9 +7,10 @@
     "records": [
         {
             "user": "lolpanda",
-            "link": "",
-            "percent": 100
-        }
+        },
+        {
+      "user": "MacacoChucrut"
+    }
     ],
     "tags": ["Wave"]
 }
