@@ -1,4 +1,4 @@
-{
+ {
     "id": 923,
     "name": "Brick hellscape",
     "creators": [
@@ -101,12 +101,12 @@
             "percent": 100,
             "mobile": true
         },
-        {
-"user": "TDCam",
-"link": "",
-"percent": 100,
-"mobile": false
-        },
+        { 
+            "user": "TDCam",
+            "link": "",
+            "percent": 100,
+            "mobile": false
+        }
     ],
     "tags": [
         "Timings",
