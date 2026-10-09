@@ -7,9 +7,11 @@
   "verifier": "Dact",
   "verification": "https://youtu.be/8WUaj0fVRJw",
   "showcase": "",
-  "records": [
+  "records": [   
   {
-    "user"= "MacacoChucrut",
+            "user": "MacacoChucrut",
+            "link": "",
+            "percent": 100
   }
   ],
   "tags": [
