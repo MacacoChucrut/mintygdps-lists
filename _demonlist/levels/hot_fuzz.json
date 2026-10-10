@@ -2,17 +2,12 @@
   "id":4532 ,
   "name": "hot fuzz",
   "creators": [
-      "ForbidBasket"
+      "TheShadowRealm"
   ],
-  "verifier": "None",
+  "verifier": "Herobrain",
   "verification": "",
   "showcase": "",
   "records": [
-    {
-      "user": "Herobrain",
-      "link": "",
-      "percent": 100
-    }
   ],
   "tags": [
     "Wave", "Chokepoints", "Fast-Paced", "Nine Circles", "Medium"
