@@ -2,28 +2,16 @@
     "id": 3850,
     "name": "Forbiden Baskets",
     "creators": [
-        "ForbidBasket"
+        "TheShadowRealm"
     ],
-    "verifier": "ForbidBasket",
+    "verifier": "Herobrain",
     "verification": "#",
     "records": [
         {
-            "user": "Herobrain",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "MacacoChucrut"
         },
         {
-            "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
-        },
-        {
-            "user": "Quantium",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "user": "Quantium"
         }
     ],
     "tags": [
