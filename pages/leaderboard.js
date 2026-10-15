@@ -197,8 +197,7 @@ export default {
             "Cash",
             "Cashy",
             "vukalex",
-            "vukalex007",
-            "majin"
+            "vukalex007"
         ];
 
         this.leaderboard = leaderboard.filter(
