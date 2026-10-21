@@ -113,6 +113,10 @@
     text-align: center;
 }
 
+.tab selected:active {
+    border-bottom: 2px solid var(--color-primary);
+}
+
 .separator-row td {
     padding: 1rem 0;
 }
