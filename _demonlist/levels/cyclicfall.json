@@ -8,7 +8,12 @@
   "verifier": "Pingel",
   "verification": "https://medal.tv/games/geometry-dash/clips/npJfADRYWIAWBwnM-?invite=cr-MSx4TFIsNDIxMzM5NjU4",
   "showcase": "",
-  "records": [],
+  "records": [
+    {
+      "user": "MacacoChucrut",
+      "link": "https://youtu.be/jWYJfT8JYaA"
+    }
+  ],
   "tags": [
     "Wave",
     "idfk"
