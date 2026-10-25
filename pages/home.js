@@ -134,7 +134,7 @@ export default {
                 "Levels can last up to 29 seconds.",
                 "Random Triggers are allowed as long as all outcomes are of equal difficulty. They may not affect the gameplay or visual difficulty.",
                 "Levels must be realistically possible at a maximum of 12 CPS (clicks per second). Short bursts of up to 15 CPS are allowed, provided they last less than a second",
-                "Level must be possible on mobile. This means no triple clicks, double clicks with 2P mode enabled, or similar inputs that cannot be done on mobile",
+                "Levels must be possible on mobile. This means no triple clicks, double clicks with 2P mode enabled, or similar inputs that cannot be done on mobile",
                 
                 "Copying levels is allowed as long as significant modifications are made to the gameplay or decoration. Direct copies or slightly edited versions are not allowed.",
                 "Levels copying parts from another level will be judged more strictly to prevent low effort levels from filling the list.",
@@ -152,7 +152,7 @@ export default {
                 "Levels must be at least Easy Demon difficulty (GDPS standards).",
                 "Random Triggers are allowed as long as all outcomes are of equal difficulty. They may not affect the gameplay or visual difficulty.",
                 "Levels must be realistically possible at a maximum of 12 CPS (clicks per second). Short bursts of up to 15 CPS are allowed, provided they last less than a second",
-                "Level must be possible on mobile. This means no triple clicks, double clicks with 2P mode enabled, or similar inputs that cannot be done on mobile",
+                "Levels must be possible on mobile. This means no triple clicks, double clicks with 2P mode enabled, or similar inputs that cannot be done on mobile",
                 
                 "Copying levels is allowed as long as significant modifications are made to the gameplay or decoration. Direct copies or slightly edited versions are not allowed.",
                 "Levels copying parts from another level will be judged more strictly to prevent low effort levels from filling the list.",
