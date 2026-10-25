@@ -104,8 +104,9 @@ export default {
                 "Your record must show the stats on the \"Level Complete!\" and stats endscreen (attempts, orbs, etc).",
                 "You may not use any skips that make any section of the level significantly easier.",
                 "A maximum of 2 keybinds are allowed per player.",
-                "If a level specifies a Method and/or FPS, you must follow those parameters. If left blank, any method or FPS setup is allowed.</a>",
-                "Changing your FPS mid-attempt is not allowed."
+                "If a level specifies an FPS setup, you must follow those parameters. If left blank, any setup is allowed.</a>",
+                "Changing your FPS mid-attempt is not allowed.",
+                "Changing you icons mid-attempt is not allowd."
             ]
         },
 
@@ -133,8 +134,8 @@ export default {
                 "Video proof is required for <strong>Top 50 Challenges.</strong>",
                 "Levels can last up to 29 seconds.",
                 "Random Triggers are allowed as long as all outcomes are of equal difficulty. They may not affect the gameplay or visual difficulty.",
-                "Levels must be realistically possible at a maximum of 12 CPS (clicks per second). Short bursts of up to 15 CPS are allowed, provided they last less than a second",
-                "Levels must be possible on mobile. This means no triple clicks, double clicks with 2P mode enabled, or similar inputs that cannot be done on mobile",
+                "Levels must be realistically possible at a maximum of 12 CPS (clicks per second). Short bursts of up to 15 CPS are allowed, provided they last less than a second.",
+                "Levels must be possible on mobile. This means no triple clicks, double clicks with 2P mode enabled, or similar inputs that cannot be done on mobile.",
                 
                 "Copying levels is allowed as long as significant modifications are made to the gameplay or decoration. Direct copies or slightly edited versions are not allowed.",
                 "Levels copying parts from another level will be judged more strictly to prevent low effort levels from filling the list.",
@@ -147,12 +148,12 @@ export default {
             id: "unrated",
             name: "Unrated List",
             rules: [
-                "Video proof is required for <strong>Top 5 levels.</strong>",
+                "Video proof is required for <strong>Top 10 levels.</strong>",
                 "Levels must be at least 30 seconds long.",
                 "Levels must be at least Easy Demon difficulty (GDPS standards).",
                 "Random Triggers are allowed as long as all outcomes are of equal difficulty. They may not affect the gameplay or visual difficulty.",
-                "Levels must be realistically possible at a maximum of 12 CPS (clicks per second). Short bursts of up to 15 CPS are allowed, provided they last less than a second",
-                "Levels must be possible on mobile. This means no triple clicks, double clicks with 2P mode enabled, or similar inputs that cannot be done on mobile",
+                "Levels must be realistically possible at a maximum of 12 CPS (clicks per second). Short bursts of up to 15 CPS are allowed, provided they last less than a second.",
+                "Levels must be possible on mobile. This means no triple clicks, double clicks with 2P mode enabled, or similar inputs that cannot be done on mobile.",
                 
                 "Copying levels is allowed as long as significant modifications are made to the gameplay or decoration. Direct copies or slightly edited versions are not allowed.",
                 "Levels copying parts from another level will be judged more strictly to prevent low effort levels from filling the list.",
