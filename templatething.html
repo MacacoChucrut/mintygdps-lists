@@ -31,7 +31,6 @@
     <input id="levelName" placeholder="level name">
     <input id="levelCreators" placeholder="creators (comma separated)">
     <input id="levelVerifier" placeholder="verifier">
-    <input id="levelMethod" placeholder="method (optional)">
     <input id="levelFps" placeholder="fps (optiona)">
     <input id="levelVerifLink" placeholder="verification (optional)">
     <input id="levelShowcase" placeholder="showcase (optional)">
@@ -68,7 +67,6 @@ function generateLevelJSON(){
   const name = document.getElementById("levelName").value.trim();
   const creators = document.getElementById("levelCreators").value.trim();
   const verifier = document.getElementById("levelVerifier").value.trim();
-  const method = document.getElementById("levelMethod").value.trim();
   const fps = document.getElementById("levelFps").value.trim();
   const verif = document.getElementById("levelVerifLink").value.trim();
   const show = document.getElementById("levelShowcase").value.trim();
