@@ -6,7 +6,8 @@
     ],
     "verifier": "Herobrain",
     "verification": "https://youtu.be/3jC_PxqTexk",
-    "records": [
+    "records": 
+    [
         {
             "user": "MacacoChucrut",
             "link": "https://youtu.be/e_hRDNw4Adg",
@@ -36,7 +37,7 @@
             "link": "https://www.youtube.com/watch?v=RwCjL7HKnf0",
             "percent": 100,
             "mobile": false
-        },
+        }
     ],
     "tags": [
         "Overall",
