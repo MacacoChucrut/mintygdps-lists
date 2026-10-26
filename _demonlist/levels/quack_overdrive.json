@@ -28,11 +28,14 @@
         {
             "user": "Quantium",
             "link": "https://youtu.be/PcuLLMYC_TI?si=6B_y6Dj5dUs_WPwX"
-        }
+            "percent": 100,
+            "mobile": true
+        },
         {
-  "user": "graymatr",
-  "link": "https://www.youtube.com/watch?v=RwCjL7HKnf0",
-  "percent": 100
+            "user": "graymatr",
+            "link": "https://www.youtube.com/watch?v=RwCjL7HKnf0",
+            "percent": 100,
+            "mobile": false
         },
     ],
     "tags": [
