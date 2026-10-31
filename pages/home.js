@@ -121,7 +121,7 @@ export default {
             id: "pemonlist",
             name: "Pemonlist",
             rules: [
-                "Video proof is required for the <strong>Top 1 Pemon.</strong>"
+                "Video proof is required for the <strong>Top 1 Pemon.</strong>",
                 "Only <strong>rated platformer demons</strong> will be accepted onto the list."
             ]
         },
