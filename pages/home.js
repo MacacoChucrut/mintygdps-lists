@@ -113,7 +113,7 @@ export default {
             rules: [
                 "Video proof is required for <strong>Top 60 Demons.</strong>",
                 "If your record is in the Top 3, you must have raw footage with isolated clicks, uploaded in a downloadable format (e.g. Google Drive) and submitted along with your public video.",
-                "Only <strong>rated classic demons</strong> will be accepted onto the list."
+                "Only <strong>rated Classic Demons</strong> will be accepted onto the list."
             ]
         },
 
@@ -122,7 +122,7 @@ export default {
             name: "Pemonlist",
             rules: [
                 "Video proof is required for the <strong>Top 1 Pemon.</strong>",
-                "Only <strong>rated platformer demons</strong> will be accepted onto the list."
+                "Only <strong>rated Platformer Demons</strong> will be accepted onto the list."
             ]
         },
 
