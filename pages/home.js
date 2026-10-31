@@ -130,6 +130,7 @@ export default {
             rules: [
                 "Video proof is required for <strong>Top 50 Challenges.</strong>",
                 "Levels can last up to 29 seconds.",
+                "The level must have a reasonable level of effort. Levels with unoriginal gameplay and low quality decoration will be rejected.",
                 "Random Triggers are allowed as long as all outcomes are of equal difficulty. They may not affect the gameplay or visual difficulty.",
                 "Levels must be realistically possible at a maximum of 12 CPS (clicks per second). Short bursts of up to 15 CPS are allowed, provided they last less than a second.",
                 "Levels must be possible on mobile. This means no triple clicks, double clicks with 2P mode enabled, or similar inputs that cannot be done on mobile.",
@@ -148,6 +149,7 @@ export default {
                 "Video proof is required for <strong>Top 10 levels.</strong>",
                 "Levels must be at least 30 seconds long.",
                 "Levels must be at least Easy Demon difficulty (GDPS standards).",
+                "The level must have a reasonable level of effort. Levels with unoriginal gameplay and low quality decoration will be rejected.",
                 "Random Triggers are allowed as long as all outcomes are of equal difficulty. They may not affect the gameplay or visual difficulty.",
                 "Levels must be realistically possible at a maximum of 12 CPS (clicks per second). Short bursts of up to 15 CPS are allowed, provided they last less than a second.",
                 "Levels must be possible on mobile. This means no triple clicks, double clicks with 2P mode enabled, or similar inputs that cannot be done on mobile.",
