@@ -130,14 +130,14 @@ export default {
             rules: [
                 "Video proof is required for <strong>Top 50 Challenges.</strong>",
                 "Levels can last up to 29 seconds.",
-                "The level must have a reasonable level of effort. Levels with unoriginal gameplay and low quality decoration will be rejected.",
+                "Levels determined to be low effort and considered to not have any distinctive or creative quality, will likely not be added to the list.",
                 "Random Triggers are allowed as long as all outcomes are of equal difficulty. They may not affect the gameplay or visual difficulty.",
                 "Levels must be realistically possible at a maximum of 12 CPS (clicks per second). Short bursts of up to 15 CPS are allowed, provided they last less than a second.",
                 "Levels must be possible on mobile. This means no triple clicks, double clicks with 2P mode enabled, or similar inputs that cannot be done on mobile.",
                 
                 "Copying levels is allowed as long as significant modifications are made to the gameplay or decoration. Direct copies or slightly edited versions are not allowed.",
                 "Levels copying parts from another level will be judged more strictly to prevent low effort levels from filling the list.",
-                "Reuploaded levels are judged more strictly to prevent low effort levels.",
+                "Reuploaded levels are judged more strictly to prevent low quality or joke levels from filling the list.",
                 "Reuploaded levels cannot be Top #1 difficulty.",
             ]
         },
@@ -149,14 +149,14 @@ export default {
                 "Video proof is required for <strong>Top 10 levels.</strong>",
                 "Levels must be at least 30 seconds long.",
                 "Levels must be at least Easy Demon difficulty (GDPS standards).",
-                "The level must have a reasonable level of effort. Levels with unoriginal gameplay and low quality decoration will be rejected.",
+                "Levels determined to be low effort and considered to not have any distinctive or creative quality, will likely not be added to the list.",
                 "Random Triggers are allowed as long as all outcomes are of equal difficulty. They may not affect the gameplay or visual difficulty.",
                 "Levels must be realistically possible at a maximum of 12 CPS (clicks per second). Short bursts of up to 15 CPS are allowed, provided they last less than a second.",
                 "Levels must be possible on mobile. This means no triple clicks, double clicks with 2P mode enabled, or similar inputs that cannot be done on mobile.",
                 
                 "Copying levels is allowed as long as significant modifications are made to the gameplay or decoration. Direct copies or slightly edited versions are not allowed.",
                 "Levels copying parts from another level will be judged more strictly to prevent low effort levels from filling the list.",
-                "Reuploaded levels are judged more strictly to prevent low effort levels.",
+                "Reuploaded levels are judged more strictly to prevent low quality or joke levels from filling the list.",
                 "Reuploaded levels cannot be Top #1 difficulty.",
             ]
         },
