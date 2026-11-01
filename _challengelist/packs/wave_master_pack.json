@@ -1,9 +1,8 @@
 {
   "name": "Wave Master Pack",
   "levels": [
+    "simon_wave_trials",
     "macacos_worst_nightmare",
-    "vertex_wave",
-    "h",
     "rupture"
   ]
 }
