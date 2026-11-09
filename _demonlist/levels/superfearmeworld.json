@@ -34,7 +34,7 @@
             "mobile": false
         },
         {
-            "user": "goofyman",
+            "user": "saphialis",
             "link": "https://youtu.be/hFan-jwYA10?t=6766",
             "percent": 100,
             "mobile": false
@@ -64,20 +64,20 @@
             "mobile": true
         },
         {
-  "user": "lolpanda",
-  "link": "https://medal.tv/games/geometry-dash/clips/n1j1VnGVfs9d019eI?invite=cr-MSxERzgsNjUwOTA0Nzk5&v=56",
-  "percent": 100
-},
-        {
-  "user": "graymatr",
-  "link": "https://www.youtube.com/watch?v=ObMB7K0Hi4k",
-  "percent": 100
+            "user": "lolpanda",
+            "link": "https://medal.tv/games/geometry-dash/clips/n1j1VnGVfs9d019eI?invite=cr-MSxERzgsNjUwOTA0Nzk5&v=56",
+            "percent": 100
         },
         {
-  "user": "hcmaxi",
-  "link": "https://youtu.be/Tp5u-_POiYY",
-  "percent": 100
-}
+            "user": "graymatr",
+            "link": "https://www.youtube.com/watch?v=ObMB7K0Hi4k",
+            "percent": 100
+        },
+        {
+            "user": "hcmaxi",
+            "link": "https://youtu.be/Tp5u-_POiYY",
+            "percent": 100
+        }
     ],
     "tags": [
         "Timings",

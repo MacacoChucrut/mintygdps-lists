@@ -2,9 +2,9 @@
     "id": 3531,
     "name": "The Twilight Zone",
     "creators": [
-        "goofyman"
+        "saphialis"
     ],
-    "verifier": "goofyman",
+    "verifier": "saphialis",
     "verification": "#",
     "records": [
         {
@@ -32,10 +32,10 @@
             "mobile": true
         },
         {
-      "user": "KindaExpert",
-      "link": "",
-      "percent": 100
-    }
+            "user": "KindaExpert",
+            "link": "",
+            "percent": 100
+        }
     ],
     "tags": [
         "Timings",

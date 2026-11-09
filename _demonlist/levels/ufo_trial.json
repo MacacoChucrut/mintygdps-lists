@@ -28,7 +28,7 @@
             "percent": 100
         },
         {
-            "user": "goofyman",
+            "user": "saphialis",
             "link": "https://www.youtube.com/watch?v=AGb2reXw-6U",
             "percent": 100,
             "mobile": false
@@ -46,10 +46,10 @@
             "mobile": false
         },
         {
-  "user": "graymatr",
-  "link": "https://www.youtube.com/watch?v=Af3du6G3N0Y",
-  "percent": 100
-}
+            "user": "graymatr",
+            "link": "https://www.youtube.com/watch?v=Af3du6G3N0Y",
+            "percent": 100
+        }
     ],
     "tags": [
         "UFO",
