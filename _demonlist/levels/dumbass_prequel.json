@@ -1,20 +1,21 @@
 {
-  "id": 4676,
-  "name": "Dumbass Prequel",
-  "creators": [
-      "Denz8ty"
-  ],
-  "verifier": "goofyman",
-  "verification": "https://www.youtube.com/watch?v=EFrcX5IYPJE",
-  "showcase": "",
-  "records": [
-    {
-  "user": "MacacoChucrut",
-  "link": "",
-  "percent": 100
-}
-  ],
-  "tags": [
-    "Timings", "Medium"
+    "id": 4676,
+    "name": "Dumbass Prequel",
+    "creators": [
+        "Denz8ty"
+    ],
+    "verifier": "saphialis",
+    "verification": "https://www.youtube.com/watch?v=EFrcX5IYPJE",
+    "showcase": "",
+    "records": [
+        {
+            "user": "MacacoChucrut",
+            "link": "",
+            "percent": 100
+        }
+    ],
+    "tags": [
+        "Timings",
+        "Medium"
     ]
 }
