@@ -1,12 +1,14 @@
 {
     "id": 3771,
     "name": "Acheron from temu",
-    "creators": ["pancakepuzzle"],
+    "creators": [
+        "pancakepuzzle"
+    ],
     "verifier": "pancakepuzzle",
     "verification": "#",
     "records": [
         {
-            "user": "goofyman"
+            "user": "saphialis"
         },
         {
             "user": "MacacoChucrut"
@@ -24,9 +26,12 @@
             "user": "lolpanda"
         },
         {
-      "user": "Z3pH4x",
-      "link": "https://youtu.be/Bfi1vQcTpzA"
-    }
+            "user": "Z3pH4x",
+            "link": "https://youtu.be/Bfi1vQcTpzA"
+        }
     ],
-    "tags": ["Wave", "Chokepoints"]
+    "tags": [
+        "Wave",
+        "Chokepoints"
+    ]
 }
