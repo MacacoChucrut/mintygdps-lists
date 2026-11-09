@@ -1,20 +1,22 @@
 {
-  "id": 4531,
-  "name": "Warm as FK",
-  "creators": [
-      "goofyman"
-  ],
-  "verifier": "goofyman",
-  "verification": "",
-  "showcase": "",
-  "records": [
-    {
-  "user": "Herobrain",
-  "link": "",
-  "percent": 100
-}
-  ],
-  "tags": [
-    "Timings", "Chokepoints", "Medium"
+    "id": 4531,
+    "name": "Warm as FK",
+    "creators": [
+        "saphialis"
+    ],
+    "verifier": "saphialis",
+    "verification": "",
+    "showcase": "",
+    "records": [
+        {
+            "user": "Herobrain",
+            "link": "",
+            "percent": 100
+        }
+    ],
+    "tags": [
+        "Timings",
+        "Chokepoints",
+        "Medium"
     ]
 }
