@@ -4,7 +4,7 @@
     "creators": [
         "Quantium"
     ],
-    "verifier": "goofyman",
+    "verifier": "saphialis",
     "verification": "",
     "showcase": "EMPTY",
     "records": [
@@ -15,15 +15,15 @@
             "mobile": false
         },
         {
-      "user": "MacacoChucrut",
-      "link": "",
-      "percent": 100
+            "user": "MacacoChucrut",
+            "link": "",
+            "percent": 100
         },
-            {
-  "user": "Herobrain",
-  "link": "",
-  "percent": 100
-    }
+        {
+            "user": "Herobrain",
+            "link": "",
+            "percent": 100
+        }
     ],
     "tags": [
         "Wave",
