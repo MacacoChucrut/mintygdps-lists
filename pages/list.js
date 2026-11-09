@@ -147,6 +147,10 @@ export default {
                             <div class="type-title-sm">Method</div>
                             <p>{{ level.method }}</p>
                         </li>
+                        <li v-if="level.initialplacement">
+                            <div class="type-title-sm">Initial Placement</div>
+                            <p>{{ level.initialplacement }}</p>
+                        </li>
                     </ul>
 
                     <h2>Victors ({{ level.records?.length || 0 }})</h2>
