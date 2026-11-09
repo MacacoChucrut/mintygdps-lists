@@ -147,9 +147,9 @@ export default {
                             <div class="type-title-sm">Method</div>
                             <p>{{ level.method }}</p>
                         </li>
-                        <li v-if="level.initial-placement">
+                        <li v-if="level.initial_placement">
                             <div class="type-title-sm">Initial Placement</div>
-                            <p>{{ level.initial-placement }}</p>
+                            <p>{{ level.initial_placement }}</p>
                         </li>
                     </ul>
 
