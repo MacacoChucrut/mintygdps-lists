@@ -91,6 +91,10 @@
     padding-block: 1rem;
 }
 
+.records .user:hover {
+    text-decoration: underline;
+}
+
 .page-list .level-container .level .records .user {
     width: 100%;
 }
