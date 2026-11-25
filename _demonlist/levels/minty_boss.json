@@ -8,26 +8,21 @@
     "verification": "#",
     "records": [
         {
-            "user": "yeeee",
-            "link": "#",
-            "percent": 100
+            "user": "yeeee"
         },
         {
-            "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100
+            "user": "MacacoChucrut"
         },
         {
-            "user": "Herobrain",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Herobrain"
         },
         {
             "user": "saphialis",
-            "link": "https://www.youtube.com/watch?v=KQ1wT0YVZ8o",
-            "percent": 100,
-            "mobile": false
+            "link": "https://www.youtube.com/watch?v=KQ1wT0YVZ8o"
+        },
+        {
+            "user": "TDCam",
+            "link": "https://cdn.discordapp.com/attachments/1574029189726863430/1574029191815368744/VID_20261122_204755_017.mp4?ex=6b07742b&is=6b0622ab&hm=e0f99a4fc80be1087159cf25269a7ccb3dc8fcb6c2002c610c8b0c146f089ec6&"
         }
     ],
     "tags": [
