@@ -8,153 +8,84 @@
     "verification": "#",
     "records": [
         {
-            "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "MacacoChucrut"
         },
         {
-            "user": "Tiger8",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Tiger8"
         },
         {
-            "user": "abdgdps",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "user": "abdgdps"
         },
         {
-            "user": "TheDunkinGD",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "TheDunkinGD"
         },
         {
-            "user": "Steadler",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Steadler"
         },
         {
-            "user": "Fluke",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "user": "Fluke"
         },
         {
-            "user": "Mop",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "user": "Mop"
         },
         {
-            "user": "ZacanaiiUwU",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "ZacanaiiUwU"
         },
         {
-            "user": "Herobrain",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Herobrain"
         },
         {
-            "user": "jchani001",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "user": "jchani001"
         },
         {
-            "user": "dact",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "dact"
         },
         {
-            "user": "Sorrow",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Sorrow"
         },
         {
-            "user": "iITHENCSFANIi",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "iITHENCSFANIi"
         },
         {
-            "user": "Hydra",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Hydra"
         },
         {
-            "user": "Virek",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Virek"
         },
         {
-            "user": "Blitzerwave09",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Blitzerwave09"
         },
         {
-            "user": "Dracorex",
-            "link": "#",
-            "percent": 100
+            "user": "Dracorex"
         },
         {
-            "user": "Quantium",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "user": "Quantium"
         },
         {
             "user": "teardropist",
-            "link": "https://www.youtube.com/watch?v=kfGuVM4e6RY",
-            "percent": 100,
-            "mobile": false
+            "link": "https://www.youtube.com/watch?v=kfGuVM4e6RY"
         },
         {
-            "user": "ElLucas7Oficial",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "ElLucas7Oficial"
         },
         {
             "user": "TheBobGD",
-            "link": "https://youtu.be/gY57BzrWTFU?t=672",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/gY57BzrWTFU?t=672"
         },
         {
-            "user": "saphialis",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "saphialis"
         },
         {
-            "user": "Hcmaxi",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Hcmaxi"
         },
         {
-            "user": "yeeee",
-            "link": "",
-            "percent": 100,
-            "mobile": false
+            "user": "yeeee"
         },
         {
-            "user": "BoykisserShadow",
-            "link": "",
-            "percent": 100,
-            "mobile": true
+            "user": "BoykisserShadow"
+        },
+        {
+            "user": "TDCam"
         }
     ],
     "tags": [
