@@ -5,54 +5,33 @@
         "Tiger8"
     ],
     "verifier": "Herobrain",
-    "verification": "#",
     "records": [
         {
-            "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "MacacoChucrut"
         },
         {
-            "user": "Dracorex",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Dracorex"
         },
         {
-            "user": "ZcelioJunior",
-            "link": "#",
-            "percent": 100
+            "user": "ZcelioJunior"
         },
         {
-            "user": "Gonci30",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Gonci30"
         },
         {
-            "user": "Quantium",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "user": "Quantium"
         },
         {
-            "user": "Hcmaxi",
-            "link": "",
-            "percent": 100,
-            "mobile": false
+            "user": "Hcmaxi"
         },
         {
-            "user": "yeeee",
-            "link": "",
-            "percent": 100,
-            "mobile": false
+            "user": "yeeee"
         },
         {
-            "user": "dact",
-            "link": "",
-            "percent": 100,
-            "mobile": false
+            "user": "dact"
+        },
+        {
+            "user": "TDCam"
         }
     ],
     "tags": [
