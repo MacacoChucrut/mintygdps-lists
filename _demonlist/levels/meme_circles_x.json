@@ -8,76 +8,44 @@
     "verification": "#",
     "records": [
         {
-            "user": "Herobrain",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Herobrain"
         },
         {
-            "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "MacacoChucrut"
         },
         {
-            "user": "KauanValads123",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "KauanValads123"
         },
         {
-            "user": "Tiger8",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Tiger8"
         },
         {
-            "user": "jchani001",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "jchani001"
         },
         {
-            "user": "Sorrow",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Sorrow"
         },
         {
-            "user": "dact",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "dact"
         },
         {
-            "user": "Gonci30",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Gonci30"
         },
         {
-            "user": "Hydra",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Hydra"
         },
         {
-            "user": "Virek",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Virek"
         },
         {
-            "user": "Quantium",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "user": "Quantium"
         },
         {
-      "user": "KindaExpert",
-      "link": "",
-      "percent": 100
-    }
+            "user": "KindaExpert"
+        },
+        {
+            "user": "TDCam"
+        }
     ],
     "tags": [
         "Wave",
