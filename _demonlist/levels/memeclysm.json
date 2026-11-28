@@ -8,140 +8,78 @@
     "verification": "#",
     "records": [
         {
-            "user": "MacacoChucrut",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "MacacoChucrut"
         },
         {
-            "user": "Pancake0o",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Pancake0o"
         },
         {
-            "user": "abdgdps",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "user": "abdgdps"
         },
         {
-            "user": "TheDunkinGD",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "user": "TheDunkinGD"
         },
         {
-            "user": "nightsIris",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "nightsIris"
         },
         {
-            "user": "FPR",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "FPR"
         },
         {
-            "user": "Robocoin",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Robocoin"
         },
         {
-            "user": "ZacanaiiUwU",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "ZacanaiiUwU"
         },
         {
-            "user": "Fluke",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "user": "Fluke"
         },
         {
-            "user": "KauanValads123",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "KauanValads123"
         },
         {
-            "user": "Sorrow",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Sorrow"
         },
         {
-            "user": "Virek",
-            "link": "#",
-            "percent": 100,
-            "mobile": true
+            "user": "Virek"
         },
         {
-            "user": "Hydra",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Hydra"
         },
         {
-            "user": "Herobrain",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Herobrain"
         },
         {
-            "user": "Gonci30",
-            "link": "#",
-            "percent": 100
+            "user": "Gonci30"
         },
         {
-            "user": "Quantium",
-            "link": "#",
-            "percent": 100
+            "user": "Quantium"
         },
         {
             "user": "TheBobGD",
-            "link": "https://youtu.be/SkqjrpOjdgY?si=O-5X3eNGJZL7fuFE",
-            "percent": 100,
-            "mobile": false
+            "link": "https://youtu.be/SkqjrpOjdgY?si=O-5X3eNGJZL7fuFE"
         },
         {
-            "user": "saphialis",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "saphialis"
         },
         {
             "user": "Mop",
-            "link": "https://youtu.be/JYdhjkWyCIc?si=Bao6g8lauk7QhnOy",
-            "percent": 100,
-            "mobile": true
+            "link": "https://youtu.be/JYdhjkWyCIc?si=Bao6g8lauk7QhnOy"
         },
         {
-            "user": "Hcmaxi",
-            "link": "#",
-            "percent": 100,
-            "mobile": false
+            "user": "Hcmaxi"
         },
         {
-            "user": "yeeee",
-            "link": "",
-            "percent": 100,
-            "mobile": false
+            "user": "yeeee"
         },
         {
-            "user": "dact",
-            "link": "",
-            "percent": 100,
-            "mobile": false
+            "user": "dact"
         },
         {
-            "user": "BoykisserShadow",
-            "link": "",
-            "percent": 100,
-            "mobile": false
+            "user": "BoykisserShadow"
+        },
+        {
+            "user": "TDCam"
         }
     ],
     "tags": [
